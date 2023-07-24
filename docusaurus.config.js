@@ -11,18 +11,18 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://mj665.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Meet-Jain-Portfolio-React/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MJ665', // Usually your GitHub org/user name.
-  projectName: 'Meet-Jain-Portfolio-React', // Usually your repo name.
+  organizationName: 'mj665', // Usually your GitHub org/user name.
+  projectName: 'mj665.github.io', // Usually your repo name.
   deploymentBranch:"gh-pages-deployment",
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
