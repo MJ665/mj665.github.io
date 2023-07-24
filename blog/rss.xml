@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Meet Jain Portfolio Blog</title>
+        <link>https://github.com/Meet-Jain-Portfolio-React/blog</link>
+        <description>Meet Jain Portfolio Blog</description>
+        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Will Be Comming Soon]]></title>
+            <link>https://github.com/Meet-Jain-Portfolio-React/blog/mdx-blog-post</link>
+            <guid>https://github.com/Meet-Jain-Portfolio-React/blog/mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Will Be Comming Soon]]></description>
+            <content:encoded><![CDATA[<p>Will Be Comming Soon</p>]]></content:encoded>
+            <category>blogPage</category>
+        </item>
+    </channel>
+</rss>

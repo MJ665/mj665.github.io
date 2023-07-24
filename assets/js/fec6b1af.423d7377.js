@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_website=self.webpackChunkportfolio_website||[]).push([[604],{9004:e=>{e.exports=JSON.parse('{"label":"blogPage","permalink":"/Meet-Jain-Portfolio-React/blog/tags/blog-page","allTagsPath":"/Meet-Jain-Portfolio-React/blog/tags","count":1}')}}]);
