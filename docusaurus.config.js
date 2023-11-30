@@ -64,6 +64,16 @@ const config = {
   ({
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+  
+      // adding announcement banner
+    announcementBar:{
+      id: 'openToWork',
+      content:
+      `<strong>Open To work and get hired.</strong> Reach Me Out on Discord, LinkedIn, Email or X. You can get links from below or on <a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/mj665">Linktree</a>.`,
+      backgroundColor: '#fafbfc',
+      textColor: '#574476',
+      isCloseable: false,
+    },
     navbar: {
         title: 'Meet Jain',
         logo: {
