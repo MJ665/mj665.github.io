@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_website=self.webpackChunkportfolio_website||[]).push([[837],{5833:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"No Press Release Yet","permalink":"/press-release/mdx-blog-post"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_website=self.webpackChunkportfolio_website||[]).push([[469],{9855:e=>{e.exports=JSON.parse('[{"label":"blogPage","permalink":"/press-release/tags/blog-page","count":1}]')}}]);
