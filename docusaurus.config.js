@@ -58,6 +58,18 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'press-release',
+        path: './press-release',
+        routeBasePath: 'press-release',
+        blogTitle: 'Press Release',
+        blogDescription: 'This is the press release section on my Profile',
+      },
+    ],
+  ],
   
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -103,6 +115,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/press-release', label: 'Press Release', position: 'left'},
           {
             href:`https://github.com/MJ665/mj665.github.io`,
             label:'GitHub Repo',
