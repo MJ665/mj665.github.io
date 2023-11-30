@@ -23,7 +23,7 @@ const FeatureList = [
       <div className="text--center">
       <img src={require('./FlagshipProjects.png').default} width="175px" />
       </div>
-        <strong>Portfolio Webpage</strong> and <strong>Cropify Webpage</strong> application.
+        <strong><a href="https://github.com/MJ665/mj665.github.io">Portfolio Webpage</a></strong>, <strong><a href="https://github.com/Stats-For-My-Uni/statsForMyUni">Stats For My Uni</a></strong> and <strong><a href="https://github.com/MJ665/Cropify">Cropify Webpage</a></strong> application.
       </>
     ),
   },
