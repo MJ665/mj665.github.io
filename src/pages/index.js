@@ -70,6 +70,11 @@ function HomepageHeader() {
             💾 🖥️ Start Reading 📂  💻
           </Link>
         </div>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
       </div>
     </header>
 
