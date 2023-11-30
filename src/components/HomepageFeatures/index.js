@@ -11,7 +11,7 @@ const FeatureList = [
       <div className="text--center">
       <img src={require('./tcetOpenSource.png').default} width="100px" />
       </div>
-        Worked in documentation team as a <strong>Summer Intern</strong> in my first year internship in <strong>TCET- Open Source</strong>
+        Worked in documentation team as a <strong>Summer Intern</strong> in my first year in <strong> <a href="https://github.com/tcet-opensource">TCET Open Source</a></strong> and promoted to <strong><a href="https://github.com/orgs/tcet-opensource/discussions/3">Executive Director of the Documentation Team.</a></strong>
       </>
     ),
   },
