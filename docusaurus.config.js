@@ -78,6 +78,14 @@ const config = {
     image: 'img/docusaurus-social-card.jpg',
     
     /**
+      * * Highlight: added default color mode as dark
+    **/
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
+    /**
       * * Highlight: adding hideable sidebar
     **/
     docs: {
