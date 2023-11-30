@@ -88,10 +88,61 @@ function HomepageHeader() {
       <div className="row">
     <div className="col col--8 col--offset-2">
 
+    <div>
+      <img height={"20px"} src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Meet's gif" />
+
+      <div id="user-content-toc">
+        <ul style={{textAlign: "center"}}>
+          <summary><h1 style={{display: "inline-block"}}>Hi 👋, I'm Meet</h1></summary>
+        </ul>
+      </div>
+
+      <hr />
+
+      <a href="https://holopin.io/@mj123">
+        <img src="https://holopin.me/mj123" alt="An image of @mj123's Holopin badges, which is a link to view their full Holopin profile" />
+      </a>
+
+   
+
+      <h3>Skills</h3>
+
+      <p>
+        • JavaScript | TypeScript | C++ | C | Python | Tailwind CSS | Node JS | Express | React | jQuery | NoSQL | SQL | Postgres | MongoDB | MySQL | Git | Github | HTML | CSS | Bootstrap | Handlebars | Java | Power BI | MS Office
+      </p>
+
+      <p>
+        • AWS | Cloud Computing | CI/CD | Firebase | Docusaurus | Docker | Moc OS | Linux | OOP | Digital Ocean | Photoshop | Postman | Google Cloud | System Design | Operating System | Data Structures | Search Engine Optimization
+      </p>
+
+      <p>
+        • Technical Writing and Documentation | Open Source | Devops | System Administrator | Frontend | Backend | Full-Stack
+      </p>
+
+      <p>
+        - 🔭 I’m currently working on <a href="https://github.com/Stats-For-My-Uni/statsForMyUni">Stats For My Uni</a>
+      </p>
+
+      <p>
+        - 🌱 I’m currently learning Scalable Backend and Databases.
+      </p>
+
+      <p>
+        - ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning Tensor Flow
+      </p>
+
+    
+
+      <p>
+        - 📫 Feel free to reach me out hackathon2mj@gmail.com
+      </p>
+
+     
+      <img height={"20px"} src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Meet's gif" />
+    </div>
 
 
-
-
+<br />
       <h2 className="text--center text-margin--lg">
         <span className="badge badge--primary">Who am I?</span>
       </h2>
