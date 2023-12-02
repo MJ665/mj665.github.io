@@ -105,7 +105,7 @@ function HomepageHeader() {
 
    
 
-      <h3>Skills</h3>
+      <h3>Skills & Understanding Of</h3>
 
       <p>
         • JavaScript | TypeScript | C++ | C | Python | Tailwind CSS | Node JS | Express | React | jQuery | NoSQL | SQL | Postgres | MongoDB | MySQL | Git | Github | HTML | CSS | Bootstrap | Handlebars | Java | Power BI | MS Office
