@@ -134,7 +134,7 @@ function HomepageHeader() {
     
 
       <p>
-        - 📫 Feel free to reach me out hackathon2mj@gmail.com
+        - 📫 Feel free to reach me out <a href="mailto:hackathon2mj@gmail.com">hackathon2mj@gmail.com</a> 
       </p>
 
      
