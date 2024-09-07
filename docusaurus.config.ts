@@ -66,11 +66,11 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-blog',
       {
-        id: 'press-release',
-        path: './press-release',
-        routeBasePath: 'press-release',
-        blogTitle: 'Press Release',
-        blogDescription: 'This is the press release section on my Profile',
+        id: 'announcements',
+        path: './announcements',
+        routeBasePath: 'announcements',
+        blogTitle: 'Announcements',
+        blogDescription: 'This is the announcements section on my portfolio website',
       },
     ],
   ],
@@ -150,7 +150,7 @@ const config: Config = {
           href:"https://www.linkedin.com/in/mj2h/",
           position:"right",
           className:"navbar-icon",
-          "area-label":"linkedin",
+          "area-label":"Linkedin Profile Page",
           html:`<svg xmlns="http://www.w3.org/2000/svg" 
           width="26" height="26"  
           stroke="currentColor" 
@@ -162,10 +162,10 @@ const config: Config = {
           `
         },
         {
-          href: 'https://twitter.com/MeetJain495531',
+          href: 'https://x.com/MeetJain495531',
           position: 'right',
           className: 'navbar-icon navbar-icon-twitter',
-          'aria-label': 'Twitter page',
+          'aria-label': 'X Profile Page',
           html: `<svg 
               stroke="currentColor" 
               fill="currentColor" 
@@ -180,7 +180,7 @@ const config: Config = {
           href: 'http://discordapp.com/users/1053004379424309358',
           position: 'right',
           className: 'navbar-icon',
-          'aria-label': 'Discord channel',
+          'aria-label': 'Discord Profile Page',
           html: `<svg
           stroke="currentColor"
           fill="currentColor"
@@ -233,7 +233,7 @@ const config: Config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/mj665/',
+              href: 'https://www.linkedin.com/in/mj2h/',
             },
             {
               label: 'Discord',
