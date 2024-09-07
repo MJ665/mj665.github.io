@@ -1,0 +1,37 @@
+{
+  "permalink": "/blog/mdx-blog-post",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "Will Be Comming Soon",
+  "description": "Will Be Comming Soon",
+  "date": "2021-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "blogPage",
+      "permalink": "/blog/tags/blog-page"
+    }
+  ],
+  "readingTime": 0.02,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Meet Jain",
+      "title": "Author",
+      "url": "https://github.com/MJ665",
+      "imageURL": "https://avatars.githubusercontent.com/u/111617351?v=4",
+      "key": "MJ665",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "Will Be Comming Soon",
+    "authors": [
+      "MJ665"
+    ],
+    "tags": [
+      "blogPage"
+    ]
+  },
+  "unlisted": false
+}
