@@ -136,7 +136,8 @@ const config: Config = {
           label: 'Docs',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/press-release', label: 'Press Release', position: 'left'},
+        {to: '/announcements', label: 'Announcements', position: 'left'},
+        {to: '/achievements', label: 'Achievements', position: 'left'},
         {
           href:`https://github.com/MJ665/mj665.github.io`,
           label:'GitHub Repo',

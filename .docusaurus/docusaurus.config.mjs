@@ -111,8 +111,13 @@ export default {
           "position": "left"
         },
         {
-          "to": "/press-release",
-          "label": "Press Release",
+          "to": "/announcements",
+          "label": "Announcements",
+          "position": "left"
+        },
+        {
+          "to": "/achievements",
+          "label": "Achievements",
           "position": "left"
         },
         {
