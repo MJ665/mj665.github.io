@@ -1,5 +1,12 @@
-
-
-./node_modules
+# Ignore dependencies and build directories
 node_modules/
+build/
+.cache/
+.docusaurus/
 
+# Optional: Ignore environment files
+.env
+.env.local
+
+# Ignore log files
+*.log
