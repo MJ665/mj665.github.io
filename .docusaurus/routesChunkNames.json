@@ -42,6 +42,132 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
+  "/achievements-988": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "items": [
+      {
+        "content": "content---achievementsb-29-09a"
+      }
+    ],
+    "__props": "__props---achievements-579-563"
+  },
+  "/achievements/archive-550": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "__props": "__props---achievements-archive-9-cc-76b"
+  },
+  "/achievements/authors-8d7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "__props": "__props---achievements-authorsd-8-e-a29"
+  },
+  "/achievements/mdx-blog-post-1fa": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-mdx-blog-postdc-7-9d3"
+  },
+  "/achievements/tags-51b": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "__props": "__props---achievements-tags-89-c-e71"
+  },
+  "/achievements/tags/achievements-f36": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "items": [
+      {
+        "content": "content---achievementsb-29-09a"
+      }
+    ],
+    "__props": "__props---achievements-tags-achievements-936-919"
+  },
+  "/announcements-2cf": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "items": [
+      {
+        "content": "content---announcements-62-a-bb0"
+      }
+    ],
+    "__props": "__props---announcements-9-a-2-440"
+  },
+  "/announcements/archive-b7f": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "__props": "__props---announcements-archiveb-59-c47"
+  },
+  "/announcements/authors-9e4": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---announcements-authorsb-15-a8a"
+      },
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "__props": "__props---announcements-authors-0-bc-769"
+  },
+  "/announcements/mdx-blog-post-053": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---announcements-authorsb-15-a8a"
+      },
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "content": "content---announcements-mdx-blog-post-3-b-4-d73"
+  },
+  "/announcements/tags-c51": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "__props": "__props---announcements-tagsa-17-d19"
+  },
+  "/announcements/tags/announcements-a44": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---announcementsdcf-9aa"
+    },
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "items": [
+      {
+        "content": "content---announcements-62-a-bb0"
+      }
+    ],
+    "__props": "__props---announcements-tags-announcements-0-be-d47"
+  },
   "/blog-1b9": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
@@ -111,69 +237,6 @@
       "plugin": "plugin---markdown-pagea-74-7b5"
     },
     "content": "content---markdown-page-393-028"
-  },
-  "/press-release-cbd": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "sidebar": "sidebar---press-releasee-57-7f1",
-    "items": [
-      {
-        "content": "content---press-release-59-c-d22"
-      }
-    ],
-    "__props": "__props---press-release-95-e-122"
-  },
-  "/press-release/archive-973": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
-    "__context": {
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "__props": "__props---press-release-archive-508-d15"
-  },
-  "/press-release/authors-936": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---press-release-authors-50-d-04f"
-      },
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "sidebar": "sidebar---press-releasee-57-7f1",
-    "__props": "__props---press-release-authors-462-fb6"
-  },
-  "/press-release/mdx-blog-post-068": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---press-release-authors-50-d-04f"
-      },
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "sidebar": "sidebar---press-releasee-57-7f1",
-    "content": "content---press-release-mdx-blog-post-494-58b"
-  },
-  "/press-release/tags-052": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "sidebar": "sidebar---press-releasee-57-7f1",
-    "__props": "__props---press-release-tagsf-40-4b3"
-  },
-  "/press-release/tags/blog-page-76b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---press-releasea-68-e36"
-    },
-    "sidebar": "sidebar---press-releasee-57-7f1",
-    "items": [
-      {
-        "content": "content---press-release-59-c-d22"
-      }
-    ],
-    "__props": "__props---press-release-tags-blog-page-741-229"
   },
   "/docs-a31": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

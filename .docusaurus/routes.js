@@ -38,6 +38,66 @@ export default [
     exact: true
   },
   {
+    path: '/achievements',
+    component: ComponentCreator('/achievements', '988'),
+    exact: true
+  },
+  {
+    path: '/achievements/archive',
+    component: ComponentCreator('/achievements/archive', '550'),
+    exact: true
+  },
+  {
+    path: '/achievements/authors',
+    component: ComponentCreator('/achievements/authors', '8d7'),
+    exact: true
+  },
+  {
+    path: '/achievements/mdx-blog-post',
+    component: ComponentCreator('/achievements/mdx-blog-post', '1fa'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags',
+    component: ComponentCreator('/achievements/tags', '51b'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/achievements',
+    component: ComponentCreator('/achievements/tags/achievements', 'f36'),
+    exact: true
+  },
+  {
+    path: '/announcements',
+    component: ComponentCreator('/announcements', '2cf'),
+    exact: true
+  },
+  {
+    path: '/announcements/archive',
+    component: ComponentCreator('/announcements/archive', 'b7f'),
+    exact: true
+  },
+  {
+    path: '/announcements/authors',
+    component: ComponentCreator('/announcements/authors', '9e4'),
+    exact: true
+  },
+  {
+    path: '/announcements/mdx-blog-post',
+    component: ComponentCreator('/announcements/mdx-blog-post', '053'),
+    exact: true
+  },
+  {
+    path: '/announcements/tags',
+    component: ComponentCreator('/announcements/tags', 'c51'),
+    exact: true
+  },
+  {
+    path: '/announcements/tags/announcements',
+    component: ComponentCreator('/announcements/tags/announcements', 'a44'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '1b9'),
     exact: true
@@ -70,36 +130,6 @@ export default [
   {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/press-release',
-    component: ComponentCreator('/press-release', 'cbd'),
-    exact: true
-  },
-  {
-    path: '/press-release/archive',
-    component: ComponentCreator('/press-release/archive', '973'),
-    exact: true
-  },
-  {
-    path: '/press-release/authors',
-    component: ComponentCreator('/press-release/authors', '936'),
-    exact: true
-  },
-  {
-    path: '/press-release/mdx-blog-post',
-    component: ComponentCreator('/press-release/mdx-blog-post', '068'),
-    exact: true
-  },
-  {
-    path: '/press-release/tags',
-    component: ComponentCreator('/press-release/tags', '052'),
-    exact: true
-  },
-  {
-    path: '/press-release/tags/blog-page',
-    component: ComponentCreator('/press-release/tags/blog-page', '76b'),
     exact: true
   },
   {

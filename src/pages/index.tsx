@@ -12,46 +12,6 @@ import styles from './index.module.css';
 
 
 
-// function HomepageHeader() {
-//   const {siteConfig} = useDocusaurusContext();
-//   return (
-//     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-//       <div className="container">
-//         <Heading as="h1" className="hero__title">
-//           {siteConfig.title}
-//         </Heading>
-//         <p className="hero__subtitle">{siteConfig.tagline}</p>
-//         <div className={styles.buttons}>
-//           <Link
-//             className="button button--secondary button--lg"
-//             to="/docs/intro">
-//             Docusaurus Tutorial - 5min ⏱️
-//           </Link>
-//         </div>
-//       </div>
-//     </header>
-//   );
-// }
-
-// export default function Home(): JSX.Element {
-//   const {siteConfig} = useDocusaurusContext();
-//   return (
-//     <Layout
-//       title={`Hello from ${siteConfig.title}`}
-//       description="Description will go into a meta tag in <head />">
-//       <HomepageHeader />
-//       <main>
-//         <HomepageFeatures />
-//       </main>
-//     </Layout>
-//   );
-// }
-
-
-
-
-
-
 
 
 
@@ -208,8 +168,8 @@ function HomepageHeader() {
       
 
 <ul>
-<li>Thakur College of Engineering and Technology, Mumbai: Second Year, Bachlor of Technology in Artificial Intelligence and Machine Learning. 2026' CGPA - 9.57</li>
-<li>IIT, Madras: Foundation Level- Bachelor of Science (BS) Degree in Data Science and Applications Sem  CGPA - 6.0</li>
+<li>Thakur College of Engineering and Technology, Mumbai: Third Year, Bachlor of Technology in Artificial Intelligence and Machine Learning. 2026' CGPA - 9.57</li>
+<li>IIT, Madras: Foundation Level- Bachelor of Science (BS) Degree in Data Science and Applications Sem  CGPA - 7.33</li>
 <li>Class 12 -Mar 2022 86.50%</li>
 <li>Class 10 -Mar 2020 86.40%</li>
 </ul>
@@ -226,10 +186,6 @@ function HomepageHeader() {
   </div>
 
 </div>
-
-
-
-
 
 
 
@@ -263,6 +219,46 @@ export default function Home() {
 
 
 
+
+
+
+
+
+
+// function HomepageHeader() {
+//   const {siteConfig} = useDocusaurusContext();
+//   return (
+//     <header className={clsx('hero hero--primary', styles.heroBanner)}>
+//       <div className="container">
+//         <Heading as="h1" className="hero__title">
+//           {siteConfig.title}
+//         </Heading>
+//         <p className="hero__subtitle">{siteConfig.tagline}</p>
+//         <div className={styles.buttons}>
+//           <Link
+//             className="button button--secondary button--lg"
+//             to="/docs/intro">
+//             Docusaurus Tutorial - 5min ⏱️
+//           </Link>
+//         </div>
+//       </div>
+//     </header>
+//   );
+// }
+
+// export default function Home(): JSX.Element {
+//   const {siteConfig} = useDocusaurusContext();
+//   return (
+//     <Layout
+//       title={`Hello from ${siteConfig.title}`}
+//       description="Description will go into a meta tag in <head />">
+//       <HomepageHeader />
+//       <main>
+//         <HomepageFeatures />
+//       </main>
+//     </Layout>
+//   );
+// }
 
 
 

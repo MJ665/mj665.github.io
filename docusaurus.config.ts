@@ -62,6 +62,8 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  
+  
   plugins: [
     [
       '@docusaurus/plugin-content-blog',
@@ -71,6 +73,16 @@ const config: Config = {
         routeBasePath: 'announcements',
         blogTitle: 'Announcements',
         blogDescription: 'This is the announcements section on my portfolio website',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'achievements',
+        path: './achievements',
+        routeBasePath: 'achievements',
+        blogTitle: 'Achievements',
+        blogDescription: 'This is the achievements section on my portfolio website',
       },
     ],
   ],
