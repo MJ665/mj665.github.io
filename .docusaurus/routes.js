@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/achievements',
-    component: ComponentCreator('/achievements', '988'),
+    component: ComponentCreator('/achievements', 'f36'),
     exact: true
   },
   {
@@ -53,8 +53,33 @@ export default [
     exact: true
   },
   {
+    path: '/achievements/Certifications/Certificates',
+    component: ComponentCreator('/achievements/Certifications/Certificates', 'b96'),
+    exact: true
+  },
+  {
+    path: '/achievements/EngineeringScore',
+    component: ComponentCreator('/achievements/EngineeringScore', 'f4f'),
+    exact: true
+  },
+  {
+    path: '/achievements/FY-Multicon-W-2022-23',
+    component: ComponentCreator('/achievements/FY-Multicon-W-2022-23', '586'),
+    exact: true
+  },
+  {
+    path: '/achievements/IITMBSFoundationLevelCleared',
+    component: ComponentCreator('/achievements/IITMBSFoundationLevelCleared', '0ad'),
+    exact: true
+  },
+  {
     path: '/achievements/mdx-blog-post',
     component: ComponentCreator('/achievements/mdx-blog-post', '1fa'),
+    exact: true
+  },
+  {
+    path: '/achievements/ST-Multicon-W-2023-24',
+    component: ComponentCreator('/achievements/ST-Multicon-W-2023-24', 'afc'),
     exact: true
   },
   {
@@ -65,6 +90,11 @@ export default [
   {
     path: '/achievements/tags/achievements',
     component: ComponentCreator('/achievements/tags/achievements', 'f36'),
+    exact: true
+  },
+  {
+    path: '/achievements/TCETOpenSource',
+    component: ComponentCreator('/achievements/TCETOpenSource', '9b8'),
     exact: true
   },
   {
@@ -99,7 +129,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '1b9'),
+    component: ComponentCreator('/blog', '35a'),
     exact: true
   },
   {
@@ -113,18 +143,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
-    exact: true
-  },
-  {
     path: '/blog/tags',
     component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
     path: '/blog/tags/blog-page',
-    component: ComponentCreator('/blog/tags/blog-page', 'e61'),
+    component: ComponentCreator('/blog/tags/blog-page', '3b9'),
+    exact: true
+  },
+  {
+    path: '/blog/TranslationResourceMaterial',
+    component: ComponentCreator('/blog/TranslationResourceMaterial', 'e1c'),
     exact: true
   },
   {
@@ -134,15 +164,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a31'),
+    component: ComponentCreator('/docs', '015'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '84c'),
+        component: ComponentCreator('/docs', '85d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0b2'),
+            component: ComponentCreator('/docs', 'b03'),
             routes: [
               {
                 path: '/docs/documentations/doc',
@@ -153,6 +183,24 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '89a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/OldProjects',
+                component: ComponentCreator('/docs/OldProjects', '363'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sih2023',
+                component: ComponentCreator('/docs/sih2023', '2c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/statsForMyUni',
+                component: ComponentCreator('/docs/statsForMyUni', '682'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

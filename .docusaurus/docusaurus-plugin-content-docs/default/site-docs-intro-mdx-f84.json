@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Will Be Comming Soon",
-  "description": "Will Be Comming Soon.",
+  "title": "intro",
+  "description": "This are the list of my projects",
   "source": "@site/docs/intro.mdx",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Will Be Comming soon",
-    "permalink": "/docs/documentations/doc"
+    "title": "OldProjects",
+    "permalink": "/docs/OldProjects"
   }
 }

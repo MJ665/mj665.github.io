@@ -16,7 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Will Be Comming Soon",
-    "permalink": "/docs/intro"
+    "title": "OldProjects",
+    "permalink": "/docs/OldProjects"
+  },
+  "next": {
+    "title": "sih2023",
+    "permalink": "/docs/sih2023"
   }
 }

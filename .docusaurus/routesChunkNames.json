@@ -42,13 +42,31 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/achievements-988": {
+  "/achievements-f36": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---achievements-753-6bd"
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
+      {
+        "content": "content---achievementsd-88-74e"
+      },
+      {
+        "content": "content---achievements-6-f-1-469"
+      },
+      {
+        "content": "content---achievementsd-1-e-10f"
+      },
+      {
+        "content": "content---achievements-2-fe-665"
+      },
+      {
+        "content": "content---achievements-253-928"
+      },
+      {
+        "content": "content---achievements-02-e-875"
+      },
       {
         "content": "content---achievementsb-29-09a"
       }
@@ -73,6 +91,50 @@
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "__props": "__props---achievements-authorsd-8-e-a29"
   },
+  "/achievements/Certifications/Certificates-b96": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-certifications-certificates-44-b-316"
+  },
+  "/achievements/EngineeringScore-f4f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-engineering-scorec-4-f-bc0"
+  },
+  "/achievements/FY-Multicon-W-2022-23-586": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-fy-multicon-w-2022-23-c-0-e-760"
+  },
+  "/achievements/IITMBSFoundationLevelCleared-0ad": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-iitmbs-foundation-level-clearedae-5-fc6"
+  },
   "/achievements/mdx-blog-post-1fa": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
@@ -83,6 +145,17 @@
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "content": "content---achievements-mdx-blog-postdc-7-9d3"
+  },
+  "/achievements/ST-Multicon-W-2023-24-afc": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-st-multicon-w-2023-24508-d53"
   },
   "/achievements/tags-51b": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
@@ -104,6 +177,17 @@
       }
     ],
     "__props": "__props---achievements-tags-achievements-936-919"
+  },
+  "/achievements/TCETOpenSource-9b8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-tcet-open-source-458-e91"
   },
   "/announcements-2cf": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
@@ -168,7 +252,7 @@
     ],
     "__props": "__props---announcements-tags-announcements-0-be-d47"
   },
-  "/blog-1b9": {
+  "/blog-35a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -176,7 +260,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---blogebf-515"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -199,17 +283,6 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-authorsef-8-44f"
   },
-  "/blog/mdx-blog-post-e9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
-  },
   "/blog/tags-287": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
@@ -218,7 +291,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "__props": "__props---blog-tags-3-a-2-fa2"
   },
-  "/blog/tags/blog-page-e61": {
+  "/blog/tags/blog-page-3b9": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -226,10 +299,21 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---blogebf-515"
       }
     ],
     "__props": "__props---blog-tags-blog-pageb-4-f-5db"
+  },
+  "/blog/TranslationResourceMaterial-e1c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-1-fd-33d"
   },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
@@ -238,17 +322,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-a31": {
+  "/docs-015": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-84c": {
+  "/docs-85d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0b2": {
+  "/docs-b03": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/documentations/doc-828": {
@@ -258,6 +342,18 @@
   "/docs/intro-89a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-introf-84-2b4"
+  },
+  "/docs/OldProjects-363": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-old-projects-475-4f7"
+  },
+  "/docs/sih2023-2c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sih-2023-a-25-e64"
+  },
+  "/docs/statsForMyUni-682": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-stats-for-my-unie-44-f0d"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

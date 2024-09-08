@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Current Position & Experience',
+    title: 'Old Position & Experience',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <> 
@@ -23,7 +23,7 @@ const FeatureList = [
       <div className="text--center">
       <img src={require('./FlagshipProjects.png').default} width="175px" />
       </div>
-        <strong><a href="https://github.com/MJ665/mj665.github.io">Portfolio Webpage</a></strong>, <strong><a href="https://github.com/Stats-For-My-Uni/statsForMyUni">Stats For My Uni</a></strong> and <strong><a href="https://github.com/MJ665/Cropify">Cropify Webpage</a></strong> application.
+        <strong><a href="https://github.com/MJ665/mj665.github.io">Portfolio Webpage</a></strong>, <strong>Internet Banking Simulation</strong> and <strong>Course Selling Website.</strong> 
       </>
     ),
   },

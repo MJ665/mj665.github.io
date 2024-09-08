@@ -19,6 +19,21 @@
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OldProjects",
+              "path": "/docs/OldProjects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sih2023",
+              "path": "/docs/sih2023",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "statsForMyUni",
+              "path": "/docs/statsForMyUni",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

@@ -250,7 +250,7 @@ const config: Config = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/users/1053004379424309358',
+              href: 'https://discord.com/users/mj665',
             },
             {
               label: 'LinkTree',

@@ -1,8 +1,8 @@
 {
   "permalink": "/blog/mdx-blog-post",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-  "title": "Will Be Comming Soon",
-  "description": "This is the introduction to my blog post. It will be shown in the preview.",
+  "title": "Translating Resource Materials and Texts from English to Indian Regional Languages",
+  "description": "Abstract",
   "date": "2021-08-01T00:00:00.000Z",
   "tags": [
     {
@@ -11,8 +11,8 @@
       "permalink": "/blog/tags/blog-page"
     }
   ],
-  "readingTime": 0.185,
-  "hasTruncateMarker": true,
+  "readingTime": 4.92,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Meet Jain",
@@ -25,7 +25,7 @@
   ],
   "frontMatter": {
     "slug": "mdx-blog-post",
-    "title": "Will Be Comming Soon",
+    "title": "Translating Resource Materials and Texts from English to Indian Regional Languages",
     "authors": [
       "MJ665"
     ],
