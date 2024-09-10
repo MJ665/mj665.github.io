@@ -76,7 +76,7 @@ function HomepageHeader() {
 
 
       <p>
-        - 📫 Feel free to reach me out <a href="mailto:hackathon2mj@gmail.com">hackathon2mj@gmail.com</a> 
+        - 📫 Feel free to reach me out <a href="mailto:contact.hackathonmj@gmail.com">contact.hackathonmj@gmail.com</a> 
       </p>
 
     
@@ -212,12 +212,14 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <ContactForm />
       </main>
     </Layout>
   );
 }
 
 
+import ContactForm from '../components/HomepageFeatures/ContactForm';
 
 
 

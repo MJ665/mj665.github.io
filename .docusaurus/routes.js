@@ -39,7 +39,12 @@ export default [
   },
   {
     path: '/achievements',
-    component: ComponentCreator('/achievements', 'f36'),
+    component: ComponentCreator('/achievements', '182'),
+    exact: true
+  },
+  {
+    path: '/achievements/2024-09-11-mdx-certificates',
+    component: ComponentCreator('/achievements/2024-09-11-mdx-certificates', 'e76'),
     exact: true
   },
   {
@@ -53,8 +58,8 @@ export default [
     exact: true
   },
   {
-    path: '/achievements/Certifications/Certificates',
-    component: ComponentCreator('/achievements/Certifications/Certificates', 'b96'),
+    path: '/achievements/completed-certificates',
+    component: ComponentCreator('/achievements/completed-certificates', '2f7'),
     exact: true
   },
   {
@@ -73,8 +78,8 @@ export default [
     exact: true
   },
   {
-    path: '/achievements/mdx-blog-post',
-    component: ComponentCreator('/achievements/mdx-blog-post', '1fa'),
+    path: '/achievements/other-certificates',
+    component: ComponentCreator('/achievements/other-certificates', '0ec'),
     exact: true
   },
   {
@@ -88,8 +93,13 @@ export default [
     exact: true
   },
   {
-    path: '/achievements/tags/achievements',
-    component: ComponentCreator('/achievements/tags/achievements', 'f36'),
+    path: '/achievements/tags/certificates',
+    component: ComponentCreator('/achievements/tags/certificates', '4f1'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/completed-certificates',
+    component: ComponentCreator('/achievements/tags/completed-certificates', 'cee'),
     exact: true
   },
   {

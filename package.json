@@ -29,6 +29,8 @@
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/tsconfig": "3.5.2",
     "@docusaurus/types": "3.5.2",
+    "dotenv": "^16.4.5",
+    "dotenv-webpack": "^8.1.0",
     "typescript": "~5.5.2"
   },
   "browserslist": {

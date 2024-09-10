@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/achievements-f36": {
+  "/achievements-182": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---achievements-753-6bd"
@@ -50,28 +50,42 @@
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "content---achievementsd-88-74e"
+        "content": "content---achievements-80-e-6a9"
       },
       {
-        "content": "content---achievements-6-f-1-469"
+        "content": "content---achievementsc-85-ed2"
+      },
+      {
+        "content": "content---achievements-756-194"
       },
       {
         "content": "content---achievementsd-1-e-10f"
       },
       {
-        "content": "content---achievements-2-fe-665"
+        "content": "content---achievements-02-e-875"
       },
       {
         "content": "content---achievements-253-928"
       },
       {
-        "content": "content---achievements-02-e-875"
+        "content": "content---achievements-6-f-1-469"
       },
       {
-        "content": "content---achievementsb-29-09a"
+        "content": "content---achievements-2-fe-665"
       }
     ],
     "__props": "__props---achievements-579-563"
+  },
+  "/achievements/2024-09-11-mdx-certificates-e76": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
+      },
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-2024-09-11-mdx-certificates-663-033"
   },
   "/achievements/archive-550": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -84,29 +98,29 @@
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "__props": "__props---achievements-authorsd-8-e-a29"
   },
-  "/achievements/Certifications/Certificates-b96": {
+  "/achievements/completed-certificates-2f7": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
-    "content": "content---achievements-certifications-certificates-44-b-316"
+    "content": "content---achievements-completed-certificates-courses-374-f31"
   },
   "/achievements/EngineeringScore-f4f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
@@ -117,7 +131,7 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
@@ -128,29 +142,29 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "content": "content---achievements-iitmbs-foundation-level-clearedae-5-fc6"
   },
-  "/achievements/mdx-blog-post-1fa": {
+  "/achievements/other-certificates-0ec": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
     "sidebar": "sidebar---achievementse-7-d-a8e",
-    "content": "content---achievements-mdx-blog-postdc-7-9d3"
+    "content": "content---achievements-other-certificatesbbd-32c"
   },
   "/achievements/ST-Multicon-W-2023-24-afc": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
@@ -165,7 +179,7 @@
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "__props": "__props---achievements-tags-89-c-e71"
   },
-  "/achievements/tags/achievements-f36": {
+  "/achievements/tags/certificates-4f1": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---achievements-753-6bd"
@@ -173,16 +187,29 @@
     "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "content---achievementsb-29-09a"
+        "content": "content---achievements-80-e-6a9"
       }
     ],
-    "__props": "__props---achievements-tags-achievements-936-919"
+    "__props": "__props---achievements-tags-certificates-3-e-3-186"
+  },
+  "/achievements/tags/completed-certificates-cee": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "items": [
+      {
+        "content": "content---achievementsc-85-ed2"
+      }
+    ],
+    "__props": "__props---achievements-tags-completed-certificateseca-5d2"
   },
   "/achievements/TCETOpenSource-9b8": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
+        "blogMetadata": "blogMetadata---achievements-2024-09-11-mdx-certificatesc-6-f-c69"
       },
       "plugin": "plugin---achievements-753-6bd"
     },
@@ -313,7 +340,7 @@
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-1-fd-33d"
+    "content": "content---blog-translation-resource-material-1-fd-d4e"
   },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

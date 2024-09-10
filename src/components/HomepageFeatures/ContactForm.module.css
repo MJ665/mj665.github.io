@@ -1,0 +1,101 @@
+/* Default light theme styles */
+.contactForm {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: var(--ifm-color-primary);
+}
+
+.formLabel {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.formInput, .formTextarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.formTextarea {
+    height: 150px;
+    resize: vertical;
+}
+
+.submitButton {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: var(--ifm-color-primary);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submitButton:hover {
+    background-color: var(--ifm-color-primary-dark);
+}
+
+.successMessage {
+    color: #4caf50;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.errorMessage {
+    color: #f44336;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+/* Dark theme styles */
+[data-theme='dark'] .contactForm {
+    background: #333;
+    border: 1px solid #555;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme='dark'] h2 {
+    color: var(--ifm-color-primary-light);
+}
+
+[data-theme='dark'] .formLabel {
+    color: #fff;
+}
+
+[data-theme='dark'] .formInput, 
+[data-theme='dark'] .formTextarea {
+    background-color: #444;
+    border: 1px solid #666;
+    color: #fff;
+}
+
+[data-theme='dark'] .submitButton {
+    background-color: var(--ifm-color-primary-lighter);
+}
+
+[data-theme='dark'] .submitButton:hover {
+    background-color: var(--ifm-color-primary-light);
+}
+
+[data-theme='dark'] .successMessage {
+    color: #4caf50;
+}
+
+[data-theme='dark'] .errorMessage {
+    color: #f44336;
+}
