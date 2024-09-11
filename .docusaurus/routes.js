@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/achievements',
-    component: ComponentCreator('/achievements', '3f3'),
+    component: ComponentCreator('/achievements', '210'),
     exact: true
   },
   {
