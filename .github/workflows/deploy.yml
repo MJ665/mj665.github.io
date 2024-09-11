@@ -35,8 +35,10 @@ jobs:
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/github-pages@v5
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build  # Directory where your built site is located
+          publish_dir: ./build
+          publish_branch: gh-pages-deployment
+          commit_message: "Deployed latest build from main"
 
