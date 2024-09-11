@@ -1,438 +1,481 @@
 {
-  "/achievements-210": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "sidebar": "e7d56fb6",
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/achievements-140": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---achievements-753-6bd"
+    },
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "45d7882b"
+        "content": "content---achievements-45-d-9c9"
       },
       {
-        "content": "c85e6360"
+        "content": "content---achievementsc-85-ed2"
       },
       {
-        "content": "702be5f2"
+        "content": "content---achievements-89-f-bb0"
       },
       {
-        "content": "89ffce4a"
+        "content": "content---achievements-0-e-7-ec3"
       },
       {
-        "content": "0e7332ab"
+        "content": "content---achievements-702-ce3"
       },
       {
-        "content": "7b095d0b"
+        "content": "content---achievements-7-b-0-ed7"
       },
       {
-        "content": "7b7ecabf"
+        "content": "content---achievements-7-b-7-61f"
       }
     ],
-    "__props": "579fa5cf"
+    "__props": "__props---achievements-579-563"
   },
   "/achievements/archive-550": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "__props": "9cc90d66"
+    "__props": "__props---achievements-archive-9-cc-76b"
   },
   "/achievements/authors-8d7": {
-    "__comp": "621db11d",
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "__props": "d8e8768b"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "__props": "__props---achievements-authorsd-8-e-a29"
   },
   "/achievements/completed-certificates-2f7": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "37413f0d"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-completed-certificates-374-f4e"
   },
   "/achievements/engineering-score-d73": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "6cbb3b68"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-engineering-score-6-cb-28f"
   },
   "/achievements/enrolled-certificates-77b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "f69849a6"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-enrolled-certificatesf-69-fba"
   },
   "/achievements/ft-multicon-w-2022-23-37e": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "b045238e"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-ft-multicon-w-2022-23-b-04-a03"
   },
   "/achievements/iitm-foundation-level-afd": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "03999092"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-iitm-foundation-level-039-b11"
   },
   "/achievements/st-multicon-w-2023-24-2b8": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "51f455cd"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-st-multicon-w-2023-2451-f-1bd"
   },
   "/achievements/tags-51b": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "__props": "89cf6086"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "__props": "__props---achievements-tags-89-c-e71"
   },
   "/achievements/tags/completed-certificates-cee": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "c85e6360"
+        "content": "content---achievementsc-85-ed2"
       }
     ],
-    "__props": "eca3243b"
+    "__props": "__props---achievements-tags-completed-certificateseca-5d2"
   },
   "/achievements/tags/engineering-score-0a8": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "45d7882b"
+        "content": "content---achievements-45-d-9c9"
       }
     ],
-    "__props": "703d8291"
+    "__props": "__props---achievements-tags-engineering-score-703-f32"
   },
   "/achievements/tags/enrolled-certificates-60d": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "0e7332ab"
+        "content": "content---achievements-0-e-7-ec3"
       }
     ],
-    "__props": "860b8cb3"
+    "__props": "__props---achievements-tags-enrolled-certificates-860-15c"
   },
   "/achievements/tags/executive-director-maintainer-at-tcet-open-source-e24": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "7b7ecabf"
+        "content": "content---achievements-7-b-7-61f"
       }
     ],
-    "__props": "3ec66812"
+    "__props": "__props---achievements-tags-executive-director-maintainer-at-tcet-open-source-3-ec-fb0"
   },
   "/achievements/tags/iit-madras-bs-degree-foundation-level-f9c": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "7b095d0b"
+        "content": "content---achievements-7-b-0-ed7"
       }
     ],
-    "__props": "80b999d8"
+    "__props": "__props---achievements-tags-iit-madras-bs-degree-foundation-level-80-b-c06"
   },
   "/achievements/tags/multicon-w-2022-23-729": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "702be5f2"
+        "content": "content---achievements-702-ce3"
       }
     ],
-    "__props": "529afbae"
+    "__props": "__props---achievements-tags-multicon-w-2022-23529-ee1"
   },
   "/achievements/tags/multicon-w-2023-24-c72": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
+    "sidebar": "sidebar---achievementse-7-d-a8e",
     "items": [
       {
-        "content": "89ffce4a"
+        "content": "content---achievements-89-f-bb0"
       }
     ],
-    "__props": "0f8b685f"
+    "__props": "__props---achievements-tags-multicon-w-2023-240-f-8-5b4"
   },
   "/achievements/tcet-open-source-06b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "c6f53b76"
+        "blogMetadata": "blogMetadata---achievements-authorsc-6-f-998"
       },
-      "plugin": "7536bb3c"
+      "plugin": "plugin---achievements-753-6bd"
     },
-    "sidebar": "e7d56fb6",
-    "content": "43cb0df2"
+    "sidebar": "sidebar---achievementse-7-d-a8e",
+    "content": "content---achievements-tcet-open-source-43-c-382"
   },
   "/announcements-abf": {
-    "__comp": "a6aa9e1f",
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "sidebar": "23d1d9cd",
+    "sidebar": "sidebar---announcements-23-d-95b",
     "items": [
       {
-        "content": "4b2c4215"
+        "content": "content---announcements-4-b-2-d32"
       }
     ],
-    "__props": "9a28b11d"
+    "__props": "__props---announcements-9-a-2-440"
   },
   "/announcements/archive-b7f": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "__props": "b59f758f"
+    "__props": "__props---announcements-archiveb-59-c47"
   },
   "/announcements/authors-9e4": {
-    "__comp": "621db11d",
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "b15d93f6"
+        "blogMetadata": "blogMetadata---announcements-authorsb-15-a8a"
       },
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "sidebar": "23d1d9cd",
-    "__props": "0bc46b60"
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "__props": "__props---announcements-authors-0-bc-769"
   },
   "/announcements/iitm-diploma-level-14a": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "b15d93f6"
+        "blogMetadata": "blogMetadata---announcements-authorsb-15-a8a"
       },
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "sidebar": "23d1d9cd",
-    "content": "fc68ed67"
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "content": "content---announcements-iitm-diploma-levelfc-6-ae2"
   },
   "/announcements/tags-c51": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "sidebar": "23d1d9cd",
-    "__props": "a17e1930"
+    "sidebar": "sidebar---announcements-23-d-95b",
+    "__props": "__props---announcements-tagsa-17-d19"
   },
   "/announcements/tags/iit-madras-bs-degree-diploma-level-db9": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "dcf07e7f"
+      "plugin": "plugin---announcementsdcf-9aa"
     },
-    "sidebar": "23d1d9cd",
+    "sidebar": "sidebar---announcements-23-d-95b",
     "items": [
       {
-        "content": "4b2c4215"
+        "content": "content---announcements-4-b-2-d32"
       }
     ],
-    "__props": "85fd91a7"
+    "__props": "__props---announcements-tags-iit-madras-bs-degree-diploma-level-85-f-3de"
   },
   "/blog-771": {
-    "__comp": "a6aa9e1f",
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "fcf8eb8c"
+        "content": "content---blogfcf-d77"
       }
     ],
-    "__props": "c15d9823"
+    "__props": "__props---blogc-15-573"
   },
   "/blog/archive-182": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "__props": "f81c1134"
+    "__props": "__props---blog-archivef-81-229"
   },
   "/blog/authors-0b7": {
-    "__comp": "621db11d",
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "__props": "ef8b811a"
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
   },
   "/blog/tags-287": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "__props": "3a2db09e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
   },
   "/blog/tags/translating-resource-materials-and-texts-9c9": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "fcf8eb8c"
+        "content": "content---blogfcf-d77"
       }
     ],
-    "__props": "35536f47"
+    "__props": "__props---blog-tags-translating-resource-materials-and-texts-355-d6e"
   },
   "/blog/translating-resource-materials-b47": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "e161d5d7"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-translating-resource-materialse-16-1e7"
   },
   "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-028"
   },
   "/search-5de": {
-    "__comp": "1a4e3797",
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
     "__context": {
-      "plugin": "c141421f"
+      "plugin": "plugin---searchc-14-0ea"
     }
   },
   "/docs-bd9": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-d2d": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs/tags-fce": {
-    "__comp": "3720c009",
-    "__props": "898514b1"
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
   },
   "/docs/tags/intro-3af": {
-    "__comp": "df203c0f",
-    "__props": "7b5a7d49"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-intro-7-b-5-de0"
   },
   "/docs/tags/old-project-97a": {
-    "__comp": "df203c0f",
-    "__props": "293af8d4"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-old-project-293-5d1"
   },
   "/docs/tags/portfolio-website-8fb": {
-    "__comp": "df203c0f",
-    "__props": "bee5ae13"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-portfolio-websitebee-3bf"
   },
   "/docs/tags/smart-india-hackathon-2023-24-d01": {
-    "__comp": "df203c0f",
-    "__props": "cac7945e"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-smart-india-hackathon-2023-24-cac-2ba"
   },
   "/docs/tags/stats-for-my-uni-465": {
-    "__comp": "df203c0f",
-    "__props": "7e621096"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-stats-for-my-uni-7-e-6-8ff"
   },
   "/docs/tags/super-abacus-2a9": {
-    "__comp": "df203c0f",
-    "__props": "2f252eef"
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-super-abacus-2-f-2-42c"
   },
   "/docs-7b6": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/old-project-596": {
-    "__comp": "17896441",
-    "content": "fcd1be93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-old-projectfcd-611"
   },
   "/docs/portfolio-website-4e6": {
-    "__comp": "17896441",
-    "content": "3db61523"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-portfolio-website-3-db-d56"
   },
   "/docs/sih-2023-24-353": {
-    "__comp": "17896441",
-    "content": "485c9eee"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sih-2023-24485-2fe"
   },
   "/docs/stats-for-my-uni-01a": {
-    "__comp": "17896441",
-    "content": "bbff60ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-stats-for-my-unibbf-b8d"
   },
   "/docs/super-abacus-f85": {
-    "__comp": "17896441",
-    "content": "9e3c2c4e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-super-abacus-9-e-3-198"
   },
   "/-e5f": {
-    "__comp": "1df93b7f",
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

@@ -45,9 +45,9 @@ const config: Config = {
   },
   customFields: {
     'REACT_APP_GOOGLE_SCRIPT_URL': process.env.REACT_APP_GOOGLE_SCRIPT_URL,
-    'appId': process.env.appId,
-    'apiKey': process.env.apiKey,
-    'indexName': process.env.indexName,
+    'appId': process.env.ALGOLIA_APP_ID,
+    'apiKey': process.env.ALGOLIA_API_KEY,
+    'indexName': process.env.ALGOLIA_INDEX_NAME,
     
     // 'apiKey': process.env.API_KEY,
     // 'appId': process.env.APPLICATION_ID,
@@ -186,9 +186,9 @@ const config: Config = {
 
   
     algolia: {
-      apiKey: process.env.apiKey as string,
-      appId: process.env.appId as string,
-      indexName: process.env.indexName as string,
+      apiKey: process.env.ALGOLIA_API_KEY as string,
+      appId: process.env.ALGOLIA_APP_ID as string,
+      indexName: process.env.ALGOLIA_INDEX_NAME as string,
       searchParameters: {
         facetFilters: ['language:en', 'version:v1'],
       },

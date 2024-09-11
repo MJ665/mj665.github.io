@@ -14,24 +14,33 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Set up Node.js (or any required environment)
+      # Set up Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # specify your Node.js version here
+          node-version: '20'
 
       # Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # Set secrets as environment variables
+      - name: Set secrets
+        run: |
+          echo "REACT_APP_GOOGLE_SCRIPT_URL=${{ secrets.REACT_APP_GOOGLE_SCRIPT_URL }}" >> $GITHUB_ENV
+          echo "ALGOLIA_APP_ID=${{ secrets.ALGOLIA_APP_ID }}" >> $GITHUB_ENV
+          echo "ALGOLIA_API_KEY=${{ secrets.ALGOLIA_API_KEY }}" >> $GITHUB_ENV
+          echo "ALGOLIA_INDEX_NAME=${{ secrets.ALGOLIA_INDEX_NAME }}" >> $GITHUB_ENV
+
       # Build the project
       - name: Build project
-        run: npm run build # adjust the build command as necessary
+        run: npm run build
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: actions/github-pages@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub automatically provides this token
-          publish_dir: ./build # specify the directory containing your built files
-          publish_branch: gh-pages-deployment # branch where GitHub Pages is served from
+          build_dir: build
+          branch: gh-pages-deployment
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
