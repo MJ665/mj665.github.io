@@ -30,9 +30,8 @@ jobs:
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/github-pages@v5
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          build_dir: build # specify the directory containing your built files
-          branch: gh-pages # branch where GitHub Pages is served from
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub automatically provides this token
+          github_token: ${{ secrets.GITHUB_TOKEN }} # GitHub automatically provides this token
+          publish_dir: ./build # specify the directory containing your built files
+          publish_branch: gh-pages-deployment # branch where GitHub Pages is served from
