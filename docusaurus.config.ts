@@ -1,7 +1,11 @@
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+
 
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+
 // import * as dotenv from 'dotenv';
 // dotenv.config();
 // export const envVariable = {
@@ -41,6 +45,10 @@ const config: Config = {
   },
   customFields: {
     'REACT_APP_GOOGLE_SCRIPT_URL': process.env.REACT_APP_GOOGLE_SCRIPT_URL,
+    'appId': process.env.appId,
+    'apiKey': process.env.apiKey,
+    'indexName': process.env.indexName,
+    
     // 'apiKey': process.env.API_KEY,
     // 'appId': process.env.APPLICATION_ID,
   },
@@ -51,20 +59,38 @@ const config: Config = {
   presets: [
     [
       'classic',
-      {
+
+      {   sitemap: {
+          changefreq: 'daily',
+          priority: 0.5,
+
+        },
         docs: {
           sidebarPath: require.resolve('./sidebars.ts'),
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogTitle: 'Docusaurus blog!',
+          blogDescription: 'A Docusaurus powered blog!',
+          postsPerPage: 'ALL',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
+   
+
+
+
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -80,8 +106,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-  
-  
+
 
   plugins: [
     [
@@ -92,6 +117,28 @@ const config: Config = {
         routeBasePath: 'announcements',
         blogTitle: 'Announcements',
         blogDescription: 'This is the announcements section on my portfolio website',
+        postsPerPage: 'ALL',
+        blogSidebarTitle: 'All posts',
+        blogSidebarCount: 'ALL',
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          xslt: true,
+        },
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+ 
+
+
+
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        // editUrl:
+          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // Useful options to enforce blogging best practices
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
       },
     ],
     [
@@ -102,6 +149,28 @@ const config: Config = {
         routeBasePath: 'achievements',
         blogTitle: 'Achievements',
         blogDescription: 'This is the achievements section on my portfolio website',
+        postsPerPage: 'ALL',
+        blogSidebarTitle: 'All posts',
+        blogSidebarCount: 'ALL',
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          xslt: true,
+        },
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+ 
+
+
+
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        // editUrl:
+          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // Useful options to enforce blogging best practices
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
       },
     ],
 
@@ -115,12 +184,35 @@ const config: Config = {
     image: 'img/Myproject.png',
 
 
-    //   algolia: {
-    //     appId: 'YOUR_ALGOLIA_APP_ID',         // Replace with your Algolia Application ID
-    //     apiKey: 'YOUR_ALGOLIA_SEARCH_API_KEY', // Replace with your Search-Only API Key
-    //     indexName: 'YOUR_ALGOLIA_INDEX_NAME',  // Replace with your Algolia Index Name
+  
+    algolia: {
+      apiKey: process.env.apiKey as string,
+      appId: process.env.appId as string,
+      indexName: process.env.indexName as string,
+      searchParameters: {
+        facetFilters: ['language:en', 'version:v1'],
+      },
 
-    // },
+      // Optional parameters
+      contextualSearch: true,  // Enables contextual search for language/version
+      externalUrlRegex: 'external\\.com|domain\\.com',  // URLs where window.location is used instead of history.push
+      
+      // Replace search result pathnames for multi-deployment or different base URLs
+      replaceSearchResultPathname: {
+        from: '/docs/',  // Modify as per your needs
+        to: '/',
+      },
+      
+  
+      
+      // Optional: Path for search page (enabled by default)
+      searchPagePath: 'search',  // Set to false to disable the search page
+
+      // Optional: Enable insights feature for DocSearch (disabled by default)
+      insights: false,  // Set to true to enable
+      
+
+    },
      /**
       * * Highlight: added default color mode as dark
     **/
@@ -260,6 +352,7 @@ const config: Config = {
         },
       ],
     },
+    
     footer: {
       style: 'dark',
       links: [
@@ -309,7 +402,10 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    
   } satisfies Preset.ThemeConfig,
+  
+  
 };
 
 export default config;

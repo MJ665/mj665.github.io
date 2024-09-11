@@ -1,4 +1,14 @@
-# Translate resource material and other texts from English to other Indian regional languages.
+---
+slug: st-multicon-w-2023-24
+title: Multicon W 2023-24
+authors: [MJ665]
+tags: [Multicon W 2023-24]
+description: Multicon W 2023-24
+keywords: [Multicon W 2023-24]
+---
+
+
+#### Translate resource material and other texts from English to other Indian regional languages.
 
 
 
@@ -6,6 +16,12 @@
 As part of a collaborative research initiative, I worked on the development of a cutting-edge AI-powered translation tool aimed at translating resource materials and other texts from English into various Indian regional languages. The project addressed the need to overcome language barriers in India, a country with a vast linguistic diversity, for sectors such as education, healthcare, e-governance, and regional content dissemination.
 
 The tool leverages **Neural Machine Translation (NMT)**, a modern AI technique that uses deep learning models to translate languages efficiently and accurately. Our implementation focused on using the **MarianMT model**, a transformer-based architecture known for its exceptional performance in machine translation. The **MarianTokenizer** was employed to preprocess and tokenize the input text, preparing it for translation. This approach ensures that the translations maintain the cultural and contextual relevance of the target language.
+
+
+
+<!-- truncate -->
+
+
 
 ### **Key Features of the Project:**
 - **Neural Machine Translation (NMT):** The core of the tool is built on NMT, which uses deep learning techniques to process text and deliver highly accurate translations. This system moves away from traditional rule-based and statistical machine translation methods, offering greater flexibility and precision.

@@ -8,10 +8,13 @@ keywords: [Completed Certificates]
 ---
 
 
-### Completed Certifications
+
 
 
 Building a strong portfolio through various certifications, I have demonstrated expertise in multiple domains, particularly Machine Learning, Cloud Computing, Web Development, and Data Science. Here is a detailed breakdown of my certifications, highlighting technical skills, projects, and key learning outcomes:
+
+<!-- truncate -->
+
 
 ### 1. Machine Learning Specialization by Andrew Ng, Stanford University
 
@@ -66,6 +69,7 @@ This comprehensive course provided a deep dive into modern full-stack web develo
   - Gained hands-on experience in deploying containerized applications with **Docker** and **Nginx**.
 
 I worked on several projects, including a full-scale Paytm/Wallet clone and contributed to an open-source project as part of the Google Summer of Code (GSoC), gaining exposure to industry-level challenges and solutions.
+
 **Harkirat Singh** – A distinguished developer and instructor, Harkirat's deep understanding of web technologies and software development has guided me in mastering full-stack development. His mentorship during the Cohort 0 to 1 program allowed me to work on complex projects and build robust applications.
 
 

@@ -25,8 +25,8 @@ function HomepageHeader() {
       <div className="container">
         {/* <h1 className="hero__title">{siteConfig.title}</h1> */}
         <h1 className="hero__title">Welcome To My Portfolio Webpage</h1>
-        <p className="hero__subtitle">{siteConfig.tagline} <br/>To be eveloper of multiple software solutions</p>
-        <img src="/img/Myproject.png" alt="" srcset="" width="300px"/>
+        <p className="hero__subtitle">{siteConfig.tagline} <br/>Aspiring to develop innovative software solutions</p>
+        <img src="/img/meets-photo.png" alt="" srcset="" width="300px"/>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -71,7 +71,7 @@ function HomepageHeader() {
       </p>
 
       <p>
-        - ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm learning Tensor Flow!
+        - ☁️ I've keen interest in Artificial Intelligence and Machine Learning. So,I'm actively learning Tensor Flow!
       </p>
 
 
@@ -93,7 +93,7 @@ function HomepageHeader() {
       A Web Developer, Open Source, Machine Learning & Data Science enthusiast who loves to learn and create stunning functional websites & ML Models most of the time.
       </h3>
       <p>
-      I am <strong>Meet Jain</strong> in my third year of engineering student at Thakur college of engineering, Mumbai also enrolled in foundation level IIT Madras online BS Degree program. I am very passionate about development, Machine Learning & Datascience and eager achieve something extraordinary in life. I always try to learn something new, always in search of new opportunities to participate in different programs, remain to be consistent towards my work and academics and always try to be a progressive person. My Qualities- punctuality, confidence, leader, and curious about new tech.
+      I am <strong>Meet Jain</strong> in my third year of engineering student at Thakur college of engineering, Mumbai also enrolled in Diploma Level IIT Madras online BS Degree program. I have enrolled in the given subjects Machine Learning Foundation, Machine Learning Techniques, Bussiness Data Management and Bussiness Data Management Project.  I’m deeply passionate about development and continuously seek new opportunities to enhance my skills and make significant contributions. My core strengths include punctuality, confidence, leadership, and a keen interest in emerging technologies.
       </p>
 
 
@@ -107,9 +107,9 @@ function HomepageHeader() {
       
 
 <ul>
-<li>course Selling Website ( under development).</li>
-<li>Internet banking simulation website ( under development).</li>
-<li>Portfolio Webpage: Displays all my work, blogs and documentation of my work, blog , achievements and announcements.</li>
+<li>Course Selling Website: Under development</li>
+<li>Internet Banking Simulation Website: Under development</li>
+<li>Portfolio Webpage: Showcases my work, blogs, documentation, achievements, and announcements</li>
 
 </ul>
 
@@ -128,8 +128,23 @@ function HomepageHeader() {
 
 
 <ol>
-<li>Cleared Foundation Level of the IITM BS Degree program for data science and its applicaiton </li>
-<li>TCET Open Source Summer Intern Documentation Team and promoted to executive director of the team</li>
+<li><a href="/achievements/iitm-foundation-level">
+       <strong>
+
+     Completed Foundation Level of the IIT Madras BS Degree:
+       </strong>
+     </a> Successfully passed foundational courses in Data Science and Applications, including Statistics for Data Science II, English II, English I, Statistics for Data Science I, Mathematics for Data Science I, Mathematics for Data Science II, Programming in Python, and Computational Thinking.</li>
+<li><a href="/achievements/tcet-open-source">
+<strong>Advanced from Summer Intern to Executive Director at TCET Open Source:</strong>
+</a>
+   Progressed from an internship position to the role of Executive Director of the Documentation Team. Led efforts to enhance documentation practices and managed a team to ensure high standards of clarity and accuracy.</li>
+<li><a href="/achievements/completed-certificates">
+<strong>
+  
+  Completed 12+ Coding and Technical Certifications
+  </strong></a>
+
+</li>
 
 
 </ol>
@@ -145,7 +160,7 @@ function HomepageHeader() {
 
 <ul>
 <li>Thakur College of Engineering and Technology, Mumbai: Third Year, Bachlor of Technology in Artificial Intelligence and Machine Learning. 2026' CGPA - 9.62</li>
-<li>IIT, Madras: Foundation Level- Bachelor of Science (BS) Degree in Data Science and Applications Sem  CGPA - 7.33</li>
+<li>IIT, Madras: Diploma Level- Bachelor of Science (BS) Degree in Data Science and Applications Sem  CGPA - 7</li>
 <li>Class 12 -Mar 2022 86.50%</li>
 <li>Class 10 -Mar 2020 86.40%</li>
 </ul>

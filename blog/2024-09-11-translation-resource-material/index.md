@@ -1,15 +1,22 @@
 ---
-slug: TranslationResourceMaterial
-title: Translating Resource Materials and Texts from English to Indian Regional Languages
+slug: translating-resource-materials
+title: Translating Resource Materials and Texts
 authors: [MJ665]
-tags: [blogPage]
+tags: [Translating Resource Materials and Texts]
+description: Translating Resource Materials and Texts
+keywords: [Translating Resource Materials and Texts]
 ---
+
 
 # Technical Framework for Translating Resource Materials and Texts from English to Indian Regional Languages
 
 ## Abstract
 
 This paper presents the development of a Machine Translation (MT) system to convert English texts into various Indian regional languages. With a focus on Neural Machine Translation (NMT) models such as MarianMT, we explore the technical roadmap for implementing translation tools using natural language processing (NLP). The article details the design, architecture, implementation, and evaluation of the translation system. The study also provides code implementations, discusses performance indicators, and outlines future improvements.
+
+
+<!-- truncate -->
+
 
 ## Keywords
 Neural Machine Translation (NMT), Indian Regional Languages, MarianMT, Transformer-based Architecture, Machine Translation, Natural Language Processing (NLP), Bilingual Translation, Low-Resource Translation, Hybrid Machine Translation (HMT).
@@ -59,18 +66,7 @@ Machine Translation (MT) systems have undergone significant transformation over 
    - **Neural Translation:** The MarianMT model processes the embeddings using transformer layers and generates translated text.
    - **Decoding:** Tokenized output is converted into the target language.
 
-### 3.2 Formula and Equations
 
-The translation process can be mathematically described as follows:
-- Let \( E \) be the set of English words and \( T \) be the set of target language words. Given a sentence \( S = (e_1, e_2, ..., e_n) \) in English, the translation function \( f \) learns the conditional probability distribution \( P(T|E) \).
-  
-  The loss function is based on cross-entropy:
-  \[
-  L = - \sum_{i=1}^{n} P(t_i | e_1, e_2, ..., e_n)
-  \]
-  Where \( t_i \) is the ith word in the target language translation.
-
----
 
 ## 4. Implementation Strategy
 

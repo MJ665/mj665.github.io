@@ -11,28 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "documentations/doc",
-              "path": "/docs/documentations/doc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "OldProjects",
-              "path": "/docs/OldProjects",
+              "id": "old-project",
+              "path": "/docs/old-project",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "sih2023",
-              "path": "/docs/sih2023",
+              "id": "portfolio-website",
+              "path": "/docs/portfolio-website",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "statsForMyUni",
-              "path": "/docs/statsForMyUni",
+              "id": "sih-2023-24",
+              "path": "/docs/sih-2023-24",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stats-for-my-uni",
+              "path": "/docs/stats-for-my-uni",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "super-abacus",
+              "path": "/docs/super-abacus",
               "sidebar": "tutorialSidebar"
             }
           ],

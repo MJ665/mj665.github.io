@@ -23,16 +23,34 @@ export default {
     "localeConfigs": {}
   },
   "customFields": {
-    "REACT_APP_GOOGLE_SCRIPT_URL": "https://script.google.com/macros/s/AKfycbxYJ8CUS_TUPrLVrSa5n2MeU8IE6YxrG7P68B6a3haOreFctqjywJBZ6osuIoTebaVo/exec"
+    "REACT_APP_GOOGLE_SCRIPT_URL": "https://script.google.com/macros/s/AKfycbxYJ8CUS_TUPrLVrSa5n2MeU8IE6YxrG7P68B6a3haOreFctqjywJBZ6osuIoTebaVo/exec",
+    "appId": "8AW2X3OM76",
+    "apiKey": "f73a216d676c99572550d329f14af89c",
+    "indexName": "mj665io"
   },
   "presets": [
     [
       "classic",
       {
+        "sitemap": {
+          "changefreq": "daily",
+          "priority": 0.5
+        },
         "docs": {
-          "sidebarPath": "/Users/meet/Desktop/~Coding/~Coding_Janauary2023_till_/uncomplete project/mj665.github.io/sidebars.ts"
+          "sidebarPath": "/Users/meet/Desktop/~Coding/~Coding_Janauary2023_till_/uncomplete project/mj665.github.io/sidebars.ts",
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ]
         },
         "blog": {
+          "blogTitle": "Docusaurus blog!",
+          "blogDescription": "A Docusaurus powered blog!",
+          "postsPerPage": "ALL",
+          "blogSidebarTitle": "All posts",
+          "blogSidebarCount": "ALL",
           "showReadingTime": true,
           "feedOptions": {
             "type": [
@@ -41,6 +59,12 @@ export default {
             ],
             "xslt": true
           },
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ],
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -59,7 +83,27 @@ export default {
         "path": "./announcements",
         "routeBasePath": "announcements",
         "blogTitle": "Announcements",
-        "blogDescription": "This is the announcements section on my portfolio website"
+        "blogDescription": "This is the announcements section on my portfolio website",
+        "postsPerPage": "ALL",
+        "blogSidebarTitle": "All posts",
+        "blogSidebarCount": "ALL",
+        "showReadingTime": true,
+        "feedOptions": {
+          "type": [
+            "rss",
+            "atom"
+          ],
+          "xslt": true
+        },
+        "remarkPlugins": [
+          null
+        ],
+        "rehypePlugins": [
+          null
+        ],
+        "onInlineTags": "warn",
+        "onInlineAuthors": "warn",
+        "onUntruncatedBlogPosts": "warn"
       }
     ],
     [
@@ -69,12 +113,51 @@ export default {
         "path": "./achievements",
         "routeBasePath": "achievements",
         "blogTitle": "Achievements",
-        "blogDescription": "This is the achievements section on my portfolio website"
+        "blogDescription": "This is the achievements section on my portfolio website",
+        "postsPerPage": "ALL",
+        "blogSidebarTitle": "All posts",
+        "blogSidebarCount": "ALL",
+        "showReadingTime": true,
+        "feedOptions": {
+          "type": [
+            "rss",
+            "atom"
+          ],
+          "xslt": true
+        },
+        "remarkPlugins": [
+          null
+        ],
+        "rehypePlugins": [
+          null
+        ],
+        "onInlineTags": "warn",
+        "onInlineAuthors": "warn",
+        "onUntruncatedBlogPosts": "warn"
       }
     ]
   ],
   "themeConfig": {
     "image": "img/Myproject.png",
+    "algolia": {
+      "apiKey": "f73a216d676c99572550d329f14af89c",
+      "appId": "8AW2X3OM76",
+      "indexName": "mj665io",
+      "searchParameters": {
+        "facetFilters": [
+          "language:en",
+          "version:v1"
+        ]
+      },
+      "contextualSearch": true,
+      "externalUrlRegex": "external\\.com|domain\\.com",
+      "replaceSearchResultPathname": {
+        "from": "/docs/",
+        "to": "/"
+      },
+      "searchPagePath": "search",
+      "insights": false
+    },
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": false,

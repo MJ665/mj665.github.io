@@ -38,7 +38,7 @@ const FeatureList = [
         Visit my up to date <strong>resume</strong>.
         <div>
 
-      <h3><button type="button" class="btn btn-primary display--1"> <a href="https://drive.google.com/file/d/113on7gjXffQKw98PI1-9Ziqu6nPHrHro/view?usp=sharing"> Resume 💾</a></button></h3>
+      <h3><button type="button" class="btn btn-primary display--1"> <a href="https://docs.google.com/document/d/1cVICbw8oGtTHjICeoM5jAZzpx95A4IOZBn1639skvVM/edit?usp=sharing"> Resume 💾</a></button></h3>
         </div>
 
      

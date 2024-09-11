@@ -1,18 +1,34 @@
 {
   "id": "documentations/doc",
-  "title": "Will Be Comming soon",
-  "description": "Will Be Comming soon.",
+  "title": "IIT Madras BS Degree Diploma Level",
+  "description": "IIT Madras BS Degree Diploma Level",
   "source": "@site/docs/documentations/doc.md",
   "sourceDirName": "documentations",
-  "slug": "/documentations/doc",
-  "permalink": "/docs/documentations/doc",
+  "slug": "/documentations/iitm-diploma-level",
+  "permalink": "/docs/documentations/iitm-diploma-level",
   "draft": false,
   "unlisted": false,
-  "tags": [],
+  "tags": [
+    {
+      "inline": true,
+      "label": "IIT Madras BS Degree Diploma Level",
+      "permalink": "/docs/tags/iit-madras-bs-degree-diploma-level"
+    }
+  ],
   "version": "current",
-  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "slug": "iitm-diploma-level",
+    "title": "IIT Madras BS Degree Diploma Level",
+    "authors": [
+      "MJ665"
+    ],
+    "tags": [
+      "IIT Madras BS Degree Diploma Level"
+    ],
+    "description": "IIT Madras BS Degree Diploma Level",
+    "keywords": [
+      "IIT Madras BS Degree Diploma Level"
+    ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -1,22 +1,38 @@
 {
   "id": "intro",
-  "title": "intro",
-  "description": "This are the list of my projects",
+  "title": "Intro",
+  "description": "Intro",
   "source": "@site/docs/intro.mdx",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
-  "tags": [],
+  "tags": [
+    {
+      "inline": true,
+      "label": "Intro",
+      "permalink": "/docs/tags/intro"
+    }
+  ],
   "version": "current",
-  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "slug": "intro",
+    "title": "Intro",
+    "authors": [
+      "MJ665"
+    ],
+    "tags": [
+      "Intro"
+    ],
+    "description": "Intro",
+    "keywords": [
+      "Intro"
+    ]
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "OldProjects",
-    "permalink": "/docs/OldProjects"
+    "title": "Old Project",
+    "permalink": "/docs/old-project"
   }
 }

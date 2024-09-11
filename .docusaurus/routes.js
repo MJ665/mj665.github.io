@@ -3,48 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/achievements',
-    component: ComponentCreator('/achievements', '182'),
-    exact: true
-  },
-  {
-    path: '/achievements/2024-09-11-mdx-certificates',
-    component: ComponentCreator('/achievements/2024-09-11-mdx-certificates', 'e76'),
+    component: ComponentCreator('/achievements', '3f3'),
     exact: true
   },
   {
@@ -63,28 +23,28 @@ export default [
     exact: true
   },
   {
-    path: '/achievements/EngineeringScore',
-    component: ComponentCreator('/achievements/EngineeringScore', 'f4f'),
+    path: '/achievements/engineering-score',
+    component: ComponentCreator('/achievements/engineering-score', 'd73'),
     exact: true
   },
   {
-    path: '/achievements/FY-Multicon-W-2022-23',
-    component: ComponentCreator('/achievements/FY-Multicon-W-2022-23', '586'),
+    path: '/achievements/enrolled-certificates',
+    component: ComponentCreator('/achievements/enrolled-certificates', '77b'),
     exact: true
   },
   {
-    path: '/achievements/IITMBSFoundationLevelCleared',
-    component: ComponentCreator('/achievements/IITMBSFoundationLevelCleared', '0ad'),
+    path: '/achievements/ft-multicon-w-2022-23',
+    component: ComponentCreator('/achievements/ft-multicon-w-2022-23', '37e'),
     exact: true
   },
   {
-    path: '/achievements/other-certificates',
-    component: ComponentCreator('/achievements/other-certificates', '0ec'),
+    path: '/achievements/iitm-foundation-level',
+    component: ComponentCreator('/achievements/iitm-foundation-level', 'afd'),
     exact: true
   },
   {
-    path: '/achievements/ST-Multicon-W-2023-24',
-    component: ComponentCreator('/achievements/ST-Multicon-W-2023-24', 'afc'),
+    path: '/achievements/st-multicon-w-2023-24',
+    component: ComponentCreator('/achievements/st-multicon-w-2023-24', '2b8'),
     exact: true
   },
   {
@@ -93,23 +53,48 @@ export default [
     exact: true
   },
   {
-    path: '/achievements/tags/certificates',
-    component: ComponentCreator('/achievements/tags/certificates', '4f1'),
-    exact: true
-  },
-  {
     path: '/achievements/tags/completed-certificates',
     component: ComponentCreator('/achievements/tags/completed-certificates', 'cee'),
     exact: true
   },
   {
-    path: '/achievements/TCETOpenSource',
-    component: ComponentCreator('/achievements/TCETOpenSource', '9b8'),
+    path: '/achievements/tags/engineering-score',
+    component: ComponentCreator('/achievements/tags/engineering-score', '0a8'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/enrolled-certificates',
+    component: ComponentCreator('/achievements/tags/enrolled-certificates', '60d'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/executive-director-maintainer-at-tcet-open-source',
+    component: ComponentCreator('/achievements/tags/executive-director-maintainer-at-tcet-open-source', 'e24'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/iit-madras-bs-degree-foundation-level',
+    component: ComponentCreator('/achievements/tags/iit-madras-bs-degree-foundation-level', 'f9c'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/multicon-w-2022-23',
+    component: ComponentCreator('/achievements/tags/multicon-w-2022-23', '729'),
+    exact: true
+  },
+  {
+    path: '/achievements/tags/multicon-w-2023-24',
+    component: ComponentCreator('/achievements/tags/multicon-w-2023-24', 'c72'),
+    exact: true
+  },
+  {
+    path: '/achievements/tcet-open-source',
+    component: ComponentCreator('/achievements/tcet-open-source', '06b'),
     exact: true
   },
   {
     path: '/announcements',
-    component: ComponentCreator('/announcements', '2cf'),
+    component: ComponentCreator('/announcements', 'abf'),
     exact: true
   },
   {
@@ -123,8 +108,8 @@ export default [
     exact: true
   },
   {
-    path: '/announcements/mdx-blog-post',
-    component: ComponentCreator('/announcements/mdx-blog-post', '053'),
+    path: '/announcements/iitm-diploma-level',
+    component: ComponentCreator('/announcements/iitm-diploma-level', '14a'),
     exact: true
   },
   {
@@ -133,13 +118,13 @@ export default [
     exact: true
   },
   {
-    path: '/announcements/tags/announcements',
-    component: ComponentCreator('/announcements/tags/announcements', 'a44'),
+    path: '/announcements/tags/iit-madras-bs-degree-diploma-level',
+    component: ComponentCreator('/announcements/tags/iit-madras-bs-degree-diploma-level', 'db9'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '35a'),
+    component: ComponentCreator('/blog', '771'),
     exact: true
   },
   {
@@ -158,13 +143,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/tags/blog-page',
-    component: ComponentCreator('/blog/tags/blog-page', '3b9'),
+    path: '/blog/tags/translating-resource-materials-and-texts',
+    component: ComponentCreator('/blog/tags/translating-resource-materials-and-texts', '9c9'),
     exact: true
   },
   {
-    path: '/blog/TranslationResourceMaterial',
-    component: ComponentCreator('/blog/TranslationResourceMaterial', 'e1c'),
+    path: '/blog/translating-resource-materials',
+    component: ComponentCreator('/blog/translating-resource-materials', 'b47'),
     exact: true
   },
   {
@@ -173,44 +158,90 @@ export default [
     exact: true
   },
   {
+    path: '/search',
+    component: ComponentCreator('/search', '5de'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '015'),
+    component: ComponentCreator('/docs', 'bd9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '85d'),
+        component: ComponentCreator('/docs', 'd2d'),
         routes: [
           {
+            path: '/docs/tags',
+            component: ComponentCreator('/docs/tags', 'fce'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/intro',
+            component: ComponentCreator('/docs/tags/intro', '3af'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/old-project',
+            component: ComponentCreator('/docs/tags/old-project', '97a'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/portfolio-website',
+            component: ComponentCreator('/docs/tags/portfolio-website', '8fb'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/smart-india-hackathon-2023-24',
+            component: ComponentCreator('/docs/tags/smart-india-hackathon-2023-24', 'd01'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/stats-for-my-uni',
+            component: ComponentCreator('/docs/tags/stats-for-my-uni', '465'),
+            exact: true
+          },
+          {
+            path: '/docs/tags/super-abacus',
+            component: ComponentCreator('/docs/tags/super-abacus', '2a9'),
+            exact: true
+          },
+          {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b03'),
+            component: ComponentCreator('/docs', '7b6'),
             routes: [
               {
-                path: '/docs/documentations/doc',
-                component: ComponentCreator('/docs/documentations/doc', '828'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '89a'),
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/OldProjects',
-                component: ComponentCreator('/docs/OldProjects', '363'),
+                path: '/docs/old-project',
+                component: ComponentCreator('/docs/old-project', '596'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/sih2023',
-                component: ComponentCreator('/docs/sih2023', '2c0'),
+                path: '/docs/portfolio-website',
+                component: ComponentCreator('/docs/portfolio-website', '4e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/statsForMyUni',
-                component: ComponentCreator('/docs/statsForMyUni', '682'),
+                path: '/docs/sih-2023-24',
+                component: ComponentCreator('/docs/sih-2023-24', '353'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/stats-for-my-uni',
+                component: ComponentCreator('/docs/stats-for-my-uni', '01a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/super-abacus',
+                component: ComponentCreator('/docs/super-abacus', 'f85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

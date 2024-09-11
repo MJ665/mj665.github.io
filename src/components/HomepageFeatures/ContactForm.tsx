@@ -75,13 +75,15 @@ const ContactForm = () => {
   
 
   return (
+    <>
+    <br />
     <div className={styles.contactForm}>
       <h2>Contact Me</h2>
       {submitted && <p className={styles.successMessage}>Your message has been received on contact.hackathonmj@gmail.com email. I will follow you back on email Thank you!!! 😊</p>}
       {error && <p className={styles.errorMessage}>{error}</p>}
       <form onSubmit={handleSubmit}>
         <label className={styles.formLabel}>
-          Name:
+          Name*:
           <input
             className={styles.formInput}
             type="text"
@@ -92,7 +94,7 @@ const ContactForm = () => {
           />
         </label>
         <label className={styles.formLabel}>
-          Email:
+          Email*:
           <input
             className={styles.formInput}
             type="email"
@@ -103,7 +105,7 @@ const ContactForm = () => {
           />
         </label>
         <label className={styles.formLabel}>
-          Message:
+          Message*:
           <textarea
             className={styles.formTextarea}
             name="message"
@@ -116,7 +118,9 @@ const ContactForm = () => {
           {loading ? 'Submitting...' : 'Submit'}
         </button>
       </form>
+      
     </div>
+    <br /></>
   );
 };
 
