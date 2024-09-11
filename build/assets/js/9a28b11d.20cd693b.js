@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[2675],{3998:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/announcements","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"This is the announcements section on my portfolio website","blogTitle":"Announcements"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[790],{7367:e=>{e.exports=JSON.parse('{"tag":{"label":"Old Project","permalink":"/docs/tags/old-project","allTagsPath":"/docs/tags","count":1,"items":[{"id":"old-project","title":"Old Project","description":"Old Project","permalink":"/docs/old-project"}],"unlisted":false}}')}}]);

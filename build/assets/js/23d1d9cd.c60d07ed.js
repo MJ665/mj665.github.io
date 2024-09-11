@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[7591],{761:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"IIT Madras BS Degree Diploma Level","permalink":"/announcements/iitm-diploma-level","unlisted":false,"date":"2024-09-11T00:00:00.000Z"}]}')}}]);

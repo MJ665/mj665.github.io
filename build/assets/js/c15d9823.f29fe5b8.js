@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[8146],{9328:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Docusaurus blog!"}}')}}]);

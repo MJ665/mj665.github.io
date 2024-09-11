@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[3022],{8888:s=>{s.exports=JSON.parse('{"tag":{"label":"super-abacus","permalink":"/docs/tags/super-abacus","allTagsPath":"/docs/tags","count":1,"items":[{"id":"super-abacus","title":"Super Abacus","description":"super-abacus","permalink":"/docs/super-abacus"}],"unlisted":false}}')}}]);

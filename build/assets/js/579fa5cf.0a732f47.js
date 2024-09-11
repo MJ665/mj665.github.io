@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[8487],{3074:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/achievements","page":1,"postsPerPage":7,"totalPages":1,"totalCount":7,"blogDescription":"This is the achievements section on my portfolio website","blogTitle":"Achievements"}}')}}]);

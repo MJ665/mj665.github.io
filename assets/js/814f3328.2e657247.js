@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_website=self.webpackChunkportfolio_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Will Be Comming Soon","permalink":"/blog/mdx-blog-post"}]}')}}]);

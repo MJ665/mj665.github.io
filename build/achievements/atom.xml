@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mj665.github.io/achievements</id>
+    <title>Meet Jain Portfolio Blog</title>
+    <updated>2024-09-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mj665.github.io/achievements"/>
+    <subtitle>Meet Jain Portfolio Blog</subtitle>
+    <icon>https://mj665.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Engineering Score]]></title>
+        <id>https://mj665.github.io/achievements/engineering-score</id>
+        <link href="https://mj665.github.io/achievements/engineering-score"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Engineering Score]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bachelor-of-technology-in-artificial-intelligence--machine-learning">Bachelor of Technology in Artificial Intelligence &amp; Machine Learning<a href="https://mj665.github.io/achievements/engineering-score#bachelor-of-technology-in-artificial-intelligence--machine-learning" class="hash-link" aria-label="Direct link to Bachelor of Technology in Artificial Intelligence &amp; Machine Learning" title="Direct link to Bachelor of Technology in Artificial Intelligence &amp; Machine Learning">​</a></h3>
+<p><strong>Thakur College of Engineering and Technology (TCET)</strong><br>
+<em>An autonomous engineering college affiliated with Mumbai University</em><br>
+<!-- -->Mumbai, MH, India<br>
+<strong>November 2022 – June 2026</strong> (Expected)</p>
+<p><strong>Major:</strong> Artificial Intelligence &amp; Machine Learning<br>
+<strong>Average CGPA:</strong> 9.62 / 10 (Currently in Third Year / Fourth Semester)</p>
+<p><strong>Enrolled in Honours Specialization:</strong> Artificial Intelligence &amp; Machine Learning</p>
+<p><strong>Semester-wise Performance:</strong></p>
+<ul>
+<li>
+<p><strong>Semester 1: SGPA 9.91</strong></p>
+<ul>
+<li><strong>Key Subjects:</strong> Chemistry, Mathematics 1, Programming for Problem Solving, Engineering Graphics and Design, Workshop and Manufacturing Practices 1</li>
+</ul>
+</li>
+<li>
+<p><strong>Semester 2: SGPA 9.22</strong></p>
+<ul>
+<li><strong>Key Subjects:</strong> Physics, Mathematics 2, Basics of Electrical Engineering, Engineering Mechanics, Workshop and Manufacturing Practices 2, English for Professional Communication</li>
+</ul>
+</li>
+<li>
+<p><strong>Semester 3: SGPA 9.59</strong></p>
+<ul>
+<li><strong>Key Subjects:</strong> Mathematics 3, Python Programming (Core and Advanced), Data Structures and Algorithms</li>
+</ul>
+</li>
+<li>
+<p><strong>Semester 4: SGPA 9.77</strong></p>
+<ul>
+<li><strong>Key Subjects:</strong> Mathematics 4, Computer Networks, Data Management and Mining, Basics of Artificial Intelligence</li>
+</ul>
+</li>
+<li>
+<p><strong>Semester 4: SGPA NA</strong> (Current)</p>
+<ul>
+<li><strong>Key Subjects:</strong> Machine Learning, Automata Theory and Compiler Design, Computer Vision, Web App Development</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>This structure clearly presents your educational achievements and subjects covered in each semester. You can adjust any details or formatting to fit the style of your portfolio website.</p>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Engineering Score" term="Engineering Score"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Completed Certificates]]></title>
+        <id>https://mj665.github.io/achievements/completed-certificates</id>
+        <link href="https://mj665.github.io/achievements/completed-certificates"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Completed Certificates]]></summary>
+        <content type="html"><![CDATA[<p>Building a strong portfolio through various certifications, I have demonstrated expertise in multiple domains, particularly Machine Learning, Cloud Computing, Web Development, and Data Science. Here is a detailed breakdown of my certifications, highlighting technical skills, projects, and key learning outcomes:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-machine-learning-specialization-by-andrew-ng-stanford-university">1. Machine Learning Specialization by Andrew Ng, Stanford University<a href="https://mj665.github.io/achievements/completed-certificates#1-machine-learning-specialization-by-andrew-ng-stanford-university" class="hash-link" aria-label="Direct link to 1. Machine Learning Specialization by Andrew Ng, Stanford University" title="Direct link to 1. Machine Learning Specialization by Andrew Ng, Stanford University">​</a></h3>
+<p>This certification, taught by Andrew Ng, one of the pioneers in Artificial Intelligence and Machine Learning, has been a foundational experience for my learning journey. The specialization provided in-depth knowledge of machine learning algorithms and real-world applications. It covered:</p>
+<p><strong>Andrew Ng</strong> – A globally recognized AI pioneer, Andrew's courses on Coursera have been instrumental in building a strong foundation in machine learning. His work at Stanford, Google Brain, and Baidu has been critical to advancing the AI landscape.</p>
+<ul>
+<li><strong>Supervised Learning:</strong> Mastered concepts like Linear Regression, Logistic Regression, and Neural Networks, which are critical for building predictive models.</li>
+<li><strong>Unsupervised Learning:</strong> Learned clustering techniques and anomaly detection.</li>
+<li><strong>Neural Networks and Deep Learning:</strong> Gained hands-on experience with TensorFlow to develop models for multi-class classification tasks.</li>
+<li><strong>Decision Trees &amp; Ensemble Methods:</strong> Acquired skills in using decision trees, random forests, and boosting methods for complex predictive tasks.</li>
+<li><strong>Recommender Systems:</strong> Implemented collaborative filtering and content-based methods for building recommendation engines.</li>
+<li><strong>Reinforcement Learning:</strong> Gained insights into building deep reinforcement learning models for advanced AI systems.</li>
+</ul>
+<p>This program solidified my technical expertise in Python, NumPy, Scikit-learn, and TensorFlow while developing models to tackle real-world machine learning challenges.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="andrew-ng">Andrew Ng<a href="https://mj665.github.io/achievements/completed-certificates#andrew-ng" class="hash-link" aria-label="Direct link to Andrew Ng" title="Direct link to Andrew Ng">​</a></h4>
+<ul>
+<li><strong>Role and Influence</strong>
+<ul>
+<li>Co-founder of Coursera</li>
+<li>Renowned AI and Machine Learning educator</li>
+</ul>
+</li>
+<li><strong>Notable Courses</strong>
+<ul>
+<li><em>Machine Learning</em>: Foundations of algorithms and predictive modeling</li>
+<li><em>Deep Learning Specialization</em>: Advanced techniques in neural networks</li>
+</ul>
+</li>
+<li><strong>Impact</strong>
+<ul>
+<li>Provided a comprehensive understanding of AI and ML</li>
+<li>Influenced global education in these fields</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-cohort-0-to-1-by-harkirat-singh">2. Cohort 0 to 1 by Harkirat Singh<a href="https://mj665.github.io/achievements/completed-certificates#2-cohort-0-to-1-by-harkirat-singh" class="hash-link" aria-label="Direct link to 2. Cohort 0 to 1 by Harkirat Singh" title="Direct link to 2. Cohort 0 to 1 by Harkirat Singh">​</a></h3>
+<p>This comprehensive course provided a deep dive into modern full-stack web development, covering both front-end and back-end technologies. Taught by Harkirat Singh, an expert in full-stack development, this course was transformative in strengthening my skills in web technologies:</p>
+<ul>
+<li>
+<p><strong>Backend</strong>:</p>
+<ul>
+<li>Mastered asynchronous JavaScript and deep-dived into databases like <strong>MongoDB</strong> and <strong>PostgreSQL</strong>.</li>
+<li>Gained proficiency in backend frameworks like <strong>Express</strong> and deploying <strong>Node.js</strong> applications.</li>
+<li>Implemented <strong>ORMs</strong>, middleware, global error handling, and scaling Node.js applications for production environments.</li>
+<li>Worked on serverless backends, <strong>OpenAPI</strong> specifications, and external authentication libraries.</li>
+</ul>
+</li>
+<li>
+<p><strong>Frontend</strong>:</p>
+<ul>
+<li>Built dynamic UI components using <strong>React</strong> and managed state efficiently with <strong>Context API</strong> and <strong>Recoil</strong>.</li>
+<li>Styled responsive interfaces using <strong>Tailwind CSS</strong>.</li>
+<li>Developed custom React hooks and worked with frameworks like <strong>Next.js</strong> for server-side rendering.</li>
+</ul>
+</li>
+<li>
+<p><strong>DevOps</strong>:</p>
+<ul>
+<li>Gained hands-on experience in deploying containerized applications with <strong>Docker</strong> and <strong>Nginx</strong>.</li>
+</ul>
+</li>
+</ul>
+<p>I worked on several projects, including a full-scale Paytm/Wallet clone and contributed to an open-source project as part of the Google Summer of Code (GSoC), gaining exposure to industry-level challenges and solutions.</p>
+<p><strong>Harkirat Singh</strong> – A distinguished developer and instructor, Harkirat's deep understanding of web technologies and software development has guided me in mastering full-stack development. His mentorship during the Cohort 0 to 1 program allowed me to work on complex projects and build robust applications.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="harkirat-singh">Harkirat Singh<a href="https://mj665.github.io/achievements/completed-certificates#harkirat-singh" class="hash-link" aria-label="Direct link to Harkirat Singh" title="Direct link to Harkirat Singh">​</a></h4>
+<ul>
+<li><strong>Current Role</strong>
+<ul>
+<li>Founder of Kirat Technologies</li>
+<li>Specialist in WebRTC and Web3 technologies</li>
+</ul>
+</li>
+<li><strong>Expertise</strong>
+<ul>
+<li>Scaling WebRTC and Web3 infrastructures</li>
+<li>Real-time communication and blockchain applications</li>
+</ul>
+</li>
+<li><strong>Achievements</strong>
+<ul>
+<li>Worked on the Backpack Application a cyrpto currency mobile wallete project</li>
+<li>Mentor in Web3 and real-time applications</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-python-for-machine-learning--data-science-masterclass-udemy">3. Python for Machine Learning &amp; Data Science Masterclass (Udemy)<a href="https://mj665.github.io/achievements/completed-certificates#3-python-for-machine-learning--data-science-masterclass-udemy" class="hash-link" aria-label="Direct link to 3. Python for Machine Learning &amp; Data Science Masterclass (Udemy)" title="Direct link to 3. Python for Machine Learning &amp; Data Science Masterclass (Udemy)">​</a></h3>
+<p>This course provided a comprehensive learning path in Python, Data Science, and Machine Learning. I enhanced my Python programming skills and learned critical tools like:</p>
+<ul>
+<li><strong>Data Analysis</strong>: Utilized libraries such as <strong>NumPy</strong> and <strong>Pandas</strong> for data manipulation and analysis.</li>
+<li><strong>Visualization</strong>: Created insightful data visualizations using <strong>Matplotlib</strong> and <strong>Seaborn</strong>.</li>
+<li><strong>Machine Learning</strong>: Built and deployed supervised models for <strong>classification</strong> and <strong>regression</strong> tasks using <strong>Scikit-learn</strong>.</li>
+<li><strong>Feature Engineering</strong>: Conducted feature engineering and preprocessing on real-world datasets to enhance model performance.</li>
+<li><strong>ML Pipeline</strong>: Developed end-to-end <strong>machine learning pipelines</strong> for real-world projects, from data collection to model deployment.</li>
+<li><strong>API Development</strong>: Deployed machine learning models as interactive APIs to demonstrate practical business use cases.</li>
+</ul>
+<p>Through various coding exercises and hands-on projects, I built a strong portfolio of data science projects, solving real-world problems and gaining critical machine learning and data visualization skills.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-google-cloud-bootcamp--geeksforgeeks">4. Google Cloud Bootcamp – GeeksforGeeks<a href="https://mj665.github.io/achievements/completed-certificates#4-google-cloud-bootcamp--geeksforgeeks" class="hash-link" aria-label="Direct link to 4. Google Cloud Bootcamp – GeeksforGeeks" title="Direct link to 4. Google Cloud Bootcamp – GeeksforGeeks">​</a></h3>
+<p>This bootcamp, sponsored by Google, deepened my understanding of <strong>Google Cloud Platform (GCP)</strong> and cloud computing principles. Key areas of expertise gained include:</p>
+<ul>
+<li>
+<p><strong>Cloud Infrastructure</strong>:</p>
+<ul>
+<li>Set up and managed core GCP services such as <strong>Compute</strong>, <strong>Storage</strong>, and <strong>Networking</strong>.</li>
+<li>Implemented <strong>Identity and Access Management (IAM)</strong> for secure cloud infrastructure.</li>
+</ul>
+</li>
+<li>
+<p><strong>Deployment &amp; Automation</strong>:</p>
+<ul>
+<li>Automated cloud infrastructure deployment and managed applications using GCP services.</li>
+<li>Focused on optimizing performance, monitoring, and security for production environments.</li>
+</ul>
+</li>
+<li>
+<p><strong>Practical Labs</strong>:</p>
+<ul>
+<li>Completed hands-on labs deploying cloud solutions, troubleshooting performance issues, and optimizing GCP-based applications.</li>
+</ul>
+</li>
+</ul>
+<p>This bootcamp equipped me with the skills necessary to excel in the fast-growing cloud computing industry.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-mastering-data-structures-and-algorithms-using-c--c---udemy">5. Mastering Data Structures and Algorithms using C / C++ - Udemy<a href="https://mj665.github.io/achievements/completed-certificates#5-mastering-data-structures-and-algorithms-using-c--c---udemy" class="hash-link" aria-label="Direct link to 5. Mastering Data Structures and Algorithms using C / C++ - Udemy" title="Direct link to 5. Mastering Data Structures and Algorithms using C / C++ - Udemy">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>In-depth understanding of data structures (e.g., arrays, linked lists, stacks, queues, trees, graphs)</li>
+<li>Proficiency in implementing algorithms for sorting and recursion</li>
+<li>Advanced problem-solving and analytical skills</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>C and C++ programming languages</li>
+<li>Recursion and Sorting Algorithms</li>
+<li>Data Structures Implementation</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Comprehensive 58.5-hour course with practical coding examples</li>
+<li>Whiteboard explanations to enhance problem-solving skills</li>
+<li>Access to 276 downloadable resources and full lifetime access</li>
+<li>High rating (4.6/5) and a bestseller status with over 203,000 students</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Detailed line-by-line coding tutorials</li>
+<li>Focus on both theoretical and practical aspects of data structures</li>
+<li>Ability to solve complex problems efficiently</li>
+</ul>
+</li>
+</ul>
+<p><strong>Abdul Bari</strong> – A renowned educator in algorithms and data structures, Abdul Bari's clear and insightful teaching methods have been fundamental in my understanding of core computer science principles. His content has been a continuous source of learning and inspiration in my technical journey.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="abdul-bari">Abdul Bari<a href="https://mj665.github.io/achievements/completed-certificates#abdul-bari" class="hash-link" aria-label="Direct link to Abdul Bari" title="Direct link to Abdul Bari">​</a></h4>
+<ul>
+<li><strong>Background</strong>
+<ul>
+<li>Former software developer turned educator</li>
+<li>Expert in C++ programming and algorithms</li>
+</ul>
+</li>
+<li><strong>Teaching Style</strong>
+<ul>
+<li>Simplifies complex programming concepts</li>
+<li>Emphasizes practical coding projects and active learning</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-javascript-algorithms-and-data-structures---free-code-camp">6. JavaScript Algorithms and Data Structures - Free Code Camp<a href="https://mj665.github.io/achievements/completed-certificates#6-javascript-algorithms-and-data-structures---free-code-camp" class="hash-link" aria-label="Direct link to 6. JavaScript Algorithms and Data Structures - Free Code Camp" title="Direct link to 6. JavaScript Algorithms and Data Structures - Free Code Camp">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Mastery of JavaScript algorithms and data structures</li>
+<li>Implementation of sorting algorithms, recursion, and dynamic programming</li>
+<li>Enhanced problem-solving skills using JavaScript</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>JavaScript programming language</li>
+<li>Algorithms and data structures specific to JavaScript</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Comprehensive curriculum covering fundamental and advanced algorithms</li>
+<li>Hands-on coding challenges and projects</li>
+<li>Integration of theoretical knowledge with practical applications</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Free and open-source learning platform</li>
+<li>Practical projects to solidify understanding and application</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-java-training---spoken-tutorial-iit-bombay">7. Java Training - Spoken Tutorial IIT Bombay<a href="https://mj665.github.io/achievements/completed-certificates#7-java-training---spoken-tutorial-iit-bombay" class="hash-link" aria-label="Direct link to 7. Java Training - Spoken Tutorial IIT Bombay" title="Direct link to 7. Java Training - Spoken Tutorial IIT Bombay">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Proficiency in Java programming</li>
+<li>Understanding of core Java concepts and object-oriented programming</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Java programming language</li>
+<li>Core Java libraries and tools</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Structured training with a focus on practical coding skills</li>
+<li>Video tutorials and interactive exercises</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Comprehensive coverage of Java essentials</li>
+<li>Training from a renowned institution (IIT Bombay)</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-research-paper--poster-presentation-multicon---w-2023">8. Research Paper &amp; Poster Presentation Multicon - W 2023<a href="https://mj665.github.io/achievements/completed-certificates#8-research-paper--poster-presentation-multicon---w-2023" class="hash-link" aria-label="Direct link to 8. Research Paper &amp; Poster Presentation Multicon - W 2023" title="Direct link to 8. Research Paper &amp; Poster Presentation Multicon - W 2023">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Research methodology and paper writing</li>
+<li>Poster design and presentation skills</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Research tools and techniques</li>
+<li>Visual communication and presentation</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Opportunity to present research findings</li>
+<li>Engagement with academic and professional audiences</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Experience in academic research and public speaking</li>
+<li>Networking with peers and experts in the field</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="9-engineering-workshop-multicon---w-2023">9. Engineering Workshop Multicon - W 2023<a href="https://mj665.github.io/achievements/completed-certificates#9-engineering-workshop-multicon---w-2023" class="hash-link" aria-label="Direct link to 9. Engineering Workshop Multicon - W 2023" title="Direct link to 9. Engineering Workshop Multicon - W 2023">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Practical engineering skills and workshop experience</li>
+<li>Collaborative problem-solving and project execution</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Engineering tools and methodologies</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Hands-on workshop with real-world applications</li>
+<li>Interaction with industry professionals</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Practical experience in engineering projects</li>
+<li>Exposure to latest engineering practices and technologies</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="10-complete-panda-for-absolute-beginners-2023---udemy">10. Complete Panda for Absolute Beginners 2023 - Udemy<a href="https://mj665.github.io/achievements/completed-certificates#10-complete-panda-for-absolute-beginners-2023---udemy" class="hash-link" aria-label="Direct link to 10. Complete Panda for Absolute Beginners 2023 - Udemy" title="Direct link to 10. Complete Panda for Absolute Beginners 2023 - Udemy">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Fundamental knowledge of the Panda library for data analysis</li>
+<li>Data manipulation and analysis techniques</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Panda library in Python</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Beginner-friendly approach with step-by-step instructions</li>
+<li>Practical exercises for real-world data analysis</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Hands-on learning with Python’s Panda library</li>
+<li>Suitable for beginners and data enthusiasts</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="11-python-and-flask-demonstration-practice-course---udemy">11. Python and Flask Demonstration Practice Course - Udemy<a href="https://mj665.github.io/achievements/completed-certificates#11-python-and-flask-demonstration-practice-course---udemy" class="hash-link" aria-label="Direct link to 11. Python and Flask Demonstration Practice Course - Udemy" title="Direct link to 11. Python and Flask Demonstration Practice Course - Udemy">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Building web applications using Python and Flask</li>
+<li>Understanding of web development frameworks</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Python programming language</li>
+<li>Flask web framework</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Demonstrative practice with real-world examples</li>
+<li>Comprehensive coverage of Flask for web development</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Practical approach to building web applications</li>
+<li>Emphasis on hands-on coding and project development</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="12-figma-from-start-to-finish-design-like-a-pro-hindi---udemy">12. Figma From Start To Finish: Design Like a Pro Hindi - Udemy<a href="https://mj665.github.io/achievements/completed-certificates#12-figma-from-start-to-finish-design-like-a-pro-hindi---udemy" class="hash-link" aria-label="Direct link to 12. Figma From Start To Finish: Design Like a Pro Hindi - Udemy" title="Direct link to 12. Figma From Start To Finish: Design Like a Pro Hindi - Udemy">​</a></h3>
+<ul>
+<li><strong>Skills Acquired</strong>
+<ul>
+<li>Proficiency in using Figma for UI/UX design</li>
+<li>Design principles and best practices</li>
+</ul>
+</li>
+<li><strong>Technologies Learned</strong>
+<ul>
+<li>Figma design tool</li>
+</ul>
+</li>
+<li><strong>Course Highlights</strong>
+<ul>
+<li>Complete guide from basic to advanced design techniques</li>
+<li>Design projects and practical exercises</li>
+</ul>
+</li>
+<li><strong>Interesting Aspects</strong>
+<ul>
+<li>Focus on professional design skills</li>
+<li>Hindi language instruction for better understanding</li>
+</ul>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Completed Certificates" term="Completed Certificates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enrolled Certificates]]></title>
+        <id>https://mj665.github.io/achievements/enrolled-certificates</id>
+        <link href="https://mj665.github.io/achievements/enrolled-certificates"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enrolled Certificates]]></summary>
+        <content type="html"><![CDATA[<p>In September 2024, I enrolled in several advanced courses to further enhance my skills in cutting-edge technologies and industry practices. These courses cover a range of topics from deep learning and system design to backend communication and machine learning. Here’s a brief overview of the certificates I’m pursuing:</p>
+<ul>
+<li>
+<p><strong>Deep Learning Specialization by Andrew Ng:</strong> A comprehensive program focusing on deep neural networks, convolutional and recurrent networks, and transformers using TensorFlow and HuggingFace. This specialization provides hands-on experience with real-world projects and advanced optimization techniques.</p>
+</li>
+<li>
+<p><strong>Cohort 1 to 100 by Harkirat Singh:</strong> An intensive course that delves into advanced backend communication, system design, and DevOps practices. It covers technologies such as Redis, Kafka, Docker, Kubernetes, and serverless computing, with practical projects and real-world applications.</p>
+</li>
+<li>
+<p><strong>Machine Learning A-Z: AI, Python &amp; R + ChatGPT Prize [2024]:</strong> This course offers in-depth knowledge of machine learning algorithms, dimensionality reduction, and natural language processing. It provides hands-on experience with Python, R, and ChatGPT, and includes real-life case studies and practical exercises.</p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="deep-learning-specialization-by-andrew-ng">Deep Learning Specialization by Andrew Ng<a href="https://mj665.github.io/achievements/enrolled-certificates#deep-learning-specialization-by-andrew-ng" class="hash-link" aria-label="Direct link to Deep Learning Specialization by Andrew Ng" title="Direct link to Deep Learning Specialization by Andrew Ng">​</a></h3>
+<p><strong>Instructor:</strong></p>
+<ul>
+<li><strong>Andrew Ng:</strong> Co-founder of Coursera, Stanford University Professor, and a pioneer in the field of deep learning.</li>
+</ul>
+<p><strong>Skills Gained:</strong></p>
+<ul>
+<li><strong>Deep Neural Networks:</strong> Build and train complex neural network architectures.</li>
+<li><strong>Convolutional Neural Networks (CNNs):</strong> Apply CNNs for visual detection, recognition tasks, and neural style transfer.</li>
+<li><strong>Recurrent Neural Networks (RNNs):</strong> Develop RNNs for NLP tasks and sequence modeling.</li>
+<li><strong>Transformers:</strong> Implement transformers and leverage HuggingFace tokenizers for Named Entity Recognition and Question Answering.</li>
+<li><strong>Optimization Techniques:</strong> Use strategies like Dropout, BatchNorm, and Xavier/He initialization to improve model performance.</li>
+<li><strong>TensorFlow:</strong> Build and deploy neural networks using TensorFlow.</li>
+</ul>
+<p><strong>Technologies:</strong></p>
+<ul>
+<li><strong>TensorFlow:</strong> For building and training neural networks.</li>
+<li><strong>Keras:</strong> Integrated with TensorFlow for easy model building.</li>
+<li><strong>HuggingFace Transformers:</strong> For advanced NLP tasks.</li>
+</ul>
+<p><strong>Course Highlights:</strong></p>
+<ul>
+<li><strong>5-Course Series:</strong> Comprehensive coverage of deep learning fundamentals and advanced techniques.</li>
+<li><strong>Applied Learning Project:</strong> Real-world projects including speech recognition, chatbots, and machine translation.</li>
+<li><strong>Flexible Schedule:</strong> Learn at your own pace with an estimated time commitment of 10 hours per week over 3 months.</li>
+<li><strong>Shareable Certificate:</strong> Add this credential to LinkedIn and resumes.</li>
+</ul>
+<hr>
+<p>Here’s a bullet-point summary of the <strong>Cohort 1 to 100</strong> course by Harkirat Singh for your portfolio website:</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cohort-1-to-100-by-harkirat-singh">Cohort 1 to 100 by Harkirat Singh<a href="https://mj665.github.io/achievements/enrolled-certificates#cohort-1-to-100-by-harkirat-singh" class="hash-link" aria-label="Direct link to Cohort 1 to 100 by Harkirat Singh" title="Direct link to Cohort 1 to 100 by Harkirat Singh">​</a></h3>
+<p><strong>Instructor:</strong></p>
+<ul>
+<li><strong>Harkirat Singh:</strong> Founder of Kirat Technologies, specialist in WebRTC and Web3 technologies, and a mentor in real-time communication and blockchain applications.</li>
+</ul>
+<p><strong>Skills Gained:</strong></p>
+<ul>
+<li><strong>Advanced Backend Communication:</strong> Mastered message queues, Pub/Sub systems, and scalable backend communication strategies.</li>
+<li><strong>System Design:</strong> Implemented design patterns, proxies, and load balancers for efficient system architecture.</li>
+<li><strong>Database Concepts:</strong> Deep dive into advanced database techniques including indexing, normalization, sharding, and replication.</li>
+<li><strong>Rate Limiting &amp; Security:</strong> Applied rate limiting, captchas, and DDoS protection to safeguard applications.</li>
+<li><strong>Scaling Techniques:</strong> Developed expertise in horizontal and vertical scaling, as well as capacity estimation for large-scale systems.</li>
+<li><strong>Real-Time Communication:</strong> Gained knowledge of WebRTC basics and real-time data transmission.</li>
+<li><strong>DevOps Practices:</strong> Hands-on experience with Docker Swarm, Kubernetes, CI/CD pipelines, and advanced monitoring systems using Prometheus and Grafana.</li>
+<li><strong>Serverless Architecture:</strong> Explored serverless computing with AWS constructs such as EC2, S3, CDNs, and EKS.</li>
+</ul>
+<p><strong>Technologies:</strong></p>
+<ul>
+<li><strong>Backend Technologies:</strong> Redis, Kafka, Proxies, Load Balancers.</li>
+<li><strong>Database Technologies:</strong> Advanced SQL and NoSQL databases.</li>
+<li><strong>DevOps Tools:</strong> Docker, Kubernetes, Prometheus, Grafana, New Relic.</li>
+<li><strong>Serverless Computing:</strong> AWS Services.</li>
+</ul>
+<p><strong>Course Highlights:</strong></p>
+<ul>
+<li><strong>Comprehensive Syllabus:</strong> Covers advanced backend communication, system design, database management, and DevOps.</li>
+<li><strong>Hands-On Projects:</strong> Worked on real-world projects like Zerodha and Zapier, and contributed to open source projects.</li>
+<li><strong>Real-World Application:</strong> Practical experience with complex projects and industry-standard technologies.</li>
+</ul>
+<p><strong>Instructor Highlights:</strong></p>
+<ul>
+<li><strong>Current Role:</strong> Founder of Kirat Technologies, specializing in WebRTC and Web3 technologies.</li>
+<li><strong>Expertise:</strong> Scaling WebRTC infrastructures, real-time communication, and blockchain applications.</li>
+<li><strong>Achievements:</strong> Developed the Backpack Application (a cryptocurrency mobile wallet) and serves as a mentor in Web3 and real-time applications.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="machine-learning-a-z-ai-python--r--chatgpt-prize-2024">Machine Learning A-Z: AI, Python &amp; R + ChatGPT Prize [2024]<a href="https://mj665.github.io/achievements/enrolled-certificates#machine-learning-a-z-ai-python--r--chatgpt-prize-2024" class="hash-link" aria-label="Direct link to Machine Learning A-Z: AI, Python &amp; R + ChatGPT Prize [2024]" title="Direct link to Machine Learning A-Z: AI, Python &amp; R + ChatGPT Prize [2024]">​</a></h3>
+<p><strong>Instructors:</strong></p>
+<ul>
+<li><strong>Data Science Experts:</strong> Learn from experienced practitioners in the field of machine learning.</li>
+</ul>
+<p><strong>Skills Gained:</strong></p>
+<ul>
+<li><strong>Machine Learning Algorithms:</strong> Master algorithms for regression, classification, clustering, and reinforcement learning.</li>
+<li><strong>Python &amp; R:</strong> Proficiency in Python and R for building and deploying machine learning models.</li>
+<li><strong>Dimensionality Reduction:</strong> Techniques like PCA and LDA for reducing dataset complexity.</li>
+<li><strong>Natural Language Processing (NLP):</strong> Implement NLP algorithms and techniques.</li>
+<li><strong>Model Selection &amp; Boosting:</strong> Techniques like Grid Search and XGBoost for model optimization.</li>
+</ul>
+<p><strong>Technologies:</strong></p>
+<ul>
+<li><strong>Python &amp; R:</strong> For coding and implementing machine learning models.</li>
+<li><strong>Google Colab:</strong> Platform for coding exercises and practical applications.</li>
+<li><strong>ChatGPT:</strong> Use AI tools to enhance machine learning skills.</li>
+</ul>
+<p><strong>Course Highlights:</strong></p>
+<ul>
+<li><strong>Comprehensive Coverage:</strong> From basic to advanced machine learning techniques including reinforcement learning and NLP.</li>
+<li><strong>Real-Life Case Studies:</strong> Practical exercises and coding templates for hands-on learning.</li>
+<li><strong>Flexible Learning:</strong> Full lifetime access with the option to focus on specific sections as needed.</li>
+<li><strong>Certification:</strong> Certificate of completion to showcase skills on LinkedIn and resumes.</li>
+</ul>
+<hr>
+<p>These bullet points should help you effectively communicate the skills and knowledge gained from the courses in your portfolio website.</p>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Enrolled Certificates" term="Enrolled Certificates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicon W 2022-23]]></title>
+        <id>https://mj665.github.io/achievements/ft-multicon-w-2022-23</id>
+        <link href="https://mj665.github.io/achievements/ft-multicon-w-2022-23"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multicon W 2022-23]]></summary>
+        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="multicon-w-2022-23">Multicon W 2022-23<a href="https://mj665.github.io/achievements/ft-multicon-w-2022-23#multicon-w-2022-23" class="hash-link" aria-label="Direct link to Multicon W 2022-23" title="Direct link to Multicon W 2022-23">​</a></h4>
+<ul>
+<li>
+<p><strong>Certificate for Completion of Java Training</strong></p>
+<ul>
+<li><strong>Awarded by:</strong> Spoken Tutorial Project, IIT Bombay</li>
+<li><strong>Event:</strong> Java test organized at TCET, Mumbai</li>
+<li><strong>Details:</strong> Recognized for completing comprehensive Java training, demonstrating proficiency in Java programming.</li>
+</ul>
+</li>
+<li>
+<p><strong>Research Paper Conference Participation: Multicon-W 2023</strong></p>
+<ul>
+<li><strong>Conference:</strong> Multicon-W 2023</li>
+<li><strong>Topic:</strong> <em>Deep Learning in Industry and Market Trends</em></li>
+<li><strong>Details:</strong> Presented research on the latest trends and advancements in deep learning, focusing on market dynamics in the USA, India, and globally.</li>
+</ul>
+</li>
+<li>
+<p><strong>Poster Presentation Competition: Multicon-W 2023</strong></p>
+<ul>
+<li><strong>Event:</strong> Poster Presentation competition</li>
+<li><strong>Details:</strong> Competed with a poster on the same research paper, showcasing findings on deep learning applications and industry trends.</li>
+</ul>
+</li>
+<li>
+<p><strong>TCET Multicon-W 2023 Java Competition</strong></p>
+<ul>
+<li><strong>Achievement:</strong> First Prize Winner</li>
+<li><strong>Event:</strong> Java competition</li>
+<li><strong>Details:</strong> Awarded first place for exceptional performance in a Java programming competition at TCET Multicon-W 2023.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-details-from-research-paper-deep-learning-in-industry-and-market-trends">Key Details from Research Paper: <em>Deep Learning in Industry and Market Trends</em><a href="https://mj665.github.io/achievements/ft-multicon-w-2022-23#key-details-from-research-paper-deep-learning-in-industry-and-market-trends" class="hash-link" aria-label="Direct link to key-details-from-research-paper-deep-learning-in-industry-and-market-trends" title="Direct link to key-details-from-research-paper-deep-learning-in-industry-and-market-trends">​</a></h3>
+<ul>
+<li>
+<p><strong>Objective:</strong></p>
+<ul>
+<li>To provide an overview of deep learning technologies, their industrial applications, and market trends.</li>
+<li>Aimed at educating investors and institutions on the potential and growth opportunities in the deep learning sector.</li>
+</ul>
+</li>
+<li>
+<p><strong>Key Findings:</strong></p>
+<ul>
+<li>
+<p><strong>Deep Learning Applications:</strong></p>
+<ul>
+<li><strong>Computer Vision:</strong> Image classification, object detection, and segmentation.</li>
+<li><strong>Speech Recognition:</strong> Voice-to-text conversion, voice command recognition.</li>
+<li><strong>Natural Language Processing (NLP):</strong> Sentiment analysis, machine translation.</li>
+<li><strong>Recommender Systems:</strong> Personalized recommendations in e-commerce and media.</li>
+<li><strong>Robotics:</strong> Object recognition, autonomous navigation.</li>
+<li><strong>Gaming:</strong> Advanced AI for game strategies and player interactions.</li>
+</ul>
+</li>
+<li>
+<p><strong>Market Trends:</strong></p>
+<ul>
+<li><strong>Global Market Size:</strong> Estimated to reach $100 billion by 2021, growing at a CAGR of approximately 40%.</li>
+<li><strong>Regional Insights:</strong>
+<ul>
+<li><strong>USA:</strong> Market value around $20 billion with a CAGR of 32.5%.</li>
+<li><strong>India:</strong> Market value around $1 billion, growing at a CAGR of 28.5%.</li>
+</ul>
+</li>
+<li><strong>Key Players:</strong> Google, Microsoft, OpenAI.</li>
+<li><strong>Technological Advances:</strong> Collaboration between OpenAI and Microsoft, integration of deep learning with platforms like Azure and GPT models.</li>
+</ul>
+</li>
+<li>
+<p><strong>Investors' Perspective:</strong></p>
+<ul>
+<li><strong>Growth Potential:</strong> High investment potential due to rapid adoption across industries and promising returns.</li>
+<li><strong>Current Investments:</strong> Significant funding in startups and companies leveraging deep learning technologies.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Conclusion:</strong></p>
+<ul>
+<li><strong>Industry Overview:</strong> Deep learning's transformative impact on various sectors, from self-driving cars to advanced healthcare solutions.</li>
+<li><strong>Future Outlook:</strong> Continued expansion and innovation, with substantial opportunities for investment and development.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p>This format provides a clear and detailed view of your achievements and the research paper's findings, making it easy for visitors to understand your contributions and the significance of your work.</p>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Multicon W 2022-23" term="Multicon W 2022-23"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicon W 2023-24]]></title>
+        <id>https://mj665.github.io/achievements/st-multicon-w-2023-24</id>
+        <link href="https://mj665.github.io/achievements/st-multicon-w-2023-24"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multicon W 2023-24]]></summary>
+        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="translate-resource-material-and-other-texts-from-english-to-other-indian-regional-languages">Translate resource material and other texts from English to other Indian regional languages.<a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#translate-resource-material-and-other-texts-from-english-to-other-indian-regional-languages" class="hash-link" aria-label="Direct link to Translate resource material and other texts from English to other Indian regional languages." title="Direct link to Translate resource material and other texts from English to other Indian regional languages.">​</a></h4>
+<p>As part of a collaborative research initiative, I worked on the development of a cutting-edge AI-powered translation tool aimed at translating resource materials and other texts from English into various Indian regional languages. The project addressed the need to overcome language barriers in India, a country with a vast linguistic diversity, for sectors such as education, healthcare, e-governance, and regional content dissemination.</p>
+<p>The tool leverages <strong>Neural Machine Translation (NMT)</strong>, a modern AI technique that uses deep learning models to translate languages efficiently and accurately. Our implementation focused on using the <strong>MarianMT model</strong>, a transformer-based architecture known for its exceptional performance in machine translation. The <strong>MarianTokenizer</strong> was employed to preprocess and tokenize the input text, preparing it for translation. This approach ensures that the translations maintain the cultural and contextual relevance of the target language.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-features-of-the-project"><strong>Key Features of the Project:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#key-features-of-the-project" class="hash-link" aria-label="Direct link to key-features-of-the-project" title="Direct link to key-features-of-the-project">​</a></h3>
+<ul>
+<li>
+<p><strong>Neural Machine Translation (NMT):</strong> The core of the tool is built on NMT, which uses deep learning techniques to process text and deliver highly accurate translations. This system moves away from traditional rule-based and statistical machine translation methods, offering greater flexibility and precision.</p>
+</li>
+<li>
+<p><strong>MarianMT Model:</strong> We used MarianMT, a state-of-the-art machine translation model from the transformer family, designed to deliver high-quality translations for low-resource languages like many Indian regional languages.</p>
+</li>
+<li>
+<p><strong>Multilingual Focus:</strong> The translation tool caters to multiple Indian languages, such as Hindi, Tamil, Telugu, Marathi, and more, making it a vital resource for various applications in multilingual contexts.</p>
+</li>
+<li>
+<p><strong>Implementation Strategy:</strong> The project followed a structured algorithmic approach:</p>
+<ol>
+<li><strong>Preprocessing and Tokenization:</strong> The input text is tokenized to break it down into smaller, meaningful units.</li>
+<li><strong>Neural Machine Translation:</strong> The MarianMT model processes the tokenized input to generate translations.</li>
+<li><strong>Re-encoding:</strong> The translated text is re-encoded and presented in the target language with proper formatting and structure.</li>
+</ol>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="applications-and-use-cases"><strong>Applications and Use Cases:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#applications-and-use-cases" class="hash-link" aria-label="Direct link to applications-and-use-cases" title="Direct link to applications-and-use-cases">​</a></h3>
+<p>The translation tool has numerous real-world applications, such as:</p>
+<ul>
+<li><strong>Education:</strong> Providing educational materials in local languages to enhance learning accessibility for students from non-English-speaking backgrounds.</li>
+<li><strong>Healthcare:</strong> Translating medical documents and health-related content to bridge communication gaps in regions with low English literacy.</li>
+<li><strong>E-Government:</strong> Supporting government services by making important documents and information accessible in regional languages.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="challenges-and-solutions"><strong>Challenges and Solutions:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#challenges-and-solutions" class="hash-link" aria-label="Direct link to challenges-and-solutions" title="Direct link to challenges-and-solutions">​</a></h3>
+<p>One of the key challenges we faced was maintaining the cultural context and nuances in translation. English phrases often have specific meanings that do not directly translate to regional languages. To solve this, the project used a <strong>Transformer-based architecture</strong>, which processes long-term dependencies in sentences and captures the contextual meaning more effectively. Additionally, we trained the model using a dataset curated from English texts and their regional translations to improve accuracy.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="evaluation-and-results"><strong>Evaluation and Results:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#evaluation-and-results" class="hash-link" aria-label="Direct link to evaluation-and-results" title="Direct link to evaluation-and-results">​</a></h3>
+<p>The translation model was evaluated using standard benchmarking sentences, such as "Hello World. How are you?" which was successfully translated into Hindi ("आप कैसे हैं?"). The results demonstrated that the tool effectively captured both the syntactic and semantic aspects of the original text. Further performance evaluations revealed that the tool provided fast, accurate translations with minimal errors in grammar and context.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="future-scope"><strong>Future Scope:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#future-scope" class="hash-link" aria-label="Direct link to future-scope" title="Direct link to future-scope">​</a></h3>
+<p>Moving forward, we aim to expand the tool's language support and improve its ability to handle complex sentence structures. Additionally, we plan to integrate user feedback mechanisms to continuously refine and improve the translation quality. Future research will focus on developing more advanced training models to further enhance translation accuracy, especially for low-resource languages.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="key-technologies-used"><strong>Key Technologies Used:</strong><a href="https://mj665.github.io/achievements/st-multicon-w-2023-24#key-technologies-used" class="hash-link" aria-label="Direct link to key-technologies-used" title="Direct link to key-technologies-used">​</a></h3>
+<ul>
+<li><strong>MarianMT Model</strong> (for machine translation)</li>
+<li><strong>MarianTokenizer</strong> (for text preprocessing)</li>
+<li><strong>Python-based NLP Libraries</strong> (for implementing and testing the model)</li>
+</ul>
+<p><strong>My Role:</strong><br>
+<!-- -->In this project, I contributed to the research, design, and implementation of the translation model. I was also responsible for evaluating the model's performance and analyzing its output to ensure accuracy and context preservation across different languages.</p>
+<hr>
+<p>This detailed summary captures all the major aspects of the project while keeping it concise and easy to read for potential employers or collaborators.</p>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Multicon W 2023-24" term="Multicon W 2023-24"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIT Madras BS Degree Foundation Level]]></title>
+        <id>https://mj665.github.io/achievements/iitm-foundation-level</id>
+        <link href="https://mj665.github.io/achievements/iitm-foundation-level"/>
+        <updated>2024-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IIT Madras BS Degree Foundation Level]]></summary>
+        <content type="html"><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="bachelor-of-science-in-data-science-and-applications">Bachelor of Science in Data Science and Applications<a href="https://mj665.github.io/achievements/iitm-foundation-level#bachelor-of-science-in-data-science-and-applications" class="hash-link" aria-label="Direct link to Bachelor of Science in Data Science and Applications" title="Direct link to Bachelor of Science in Data Science and Applications">​</a></h4>
+<p><strong>Indian Institute of Technology Madras (IITM)</strong><br>
+<em>Online Program</em><br>
+<!-- -->September 2022 – June 2026 (Expected)</p>
+<p><strong>Current Status:</strong></p>
+<ul>
+<li><strong>Foundation Level Completed:</strong> Achieved a CGPA of 7.00</li>
+<li><strong>Result Released:</strong> September 8, 2024</li>
+</ul>
+<hr>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="completed-courses"><strong>Completed Courses</strong><a href="https://mj665.github.io/achievements/iitm-foundation-level#completed-courses" class="hash-link" aria-label="Direct link to completed-courses" title="Direct link to completed-courses">​</a></h4>
+<p><strong>1. Statistics for Data Science I</strong><br>
+<em>Instructor: Usha Mohan</em></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Data Analysis:</strong> Techniques for creating, manipulating, and analyzing large datasets.</li>
+<li><strong>Descriptive Statistics:</strong> Methods to summarize and describe data, including measures of central tendency (mean, median, mode) and measures of dispersion (range, variance, standard deviation).</li>
+<li><strong>Probability Basics:</strong> Fundamental concepts of probability, including random variables, probability distributions, and expectation.</li>
+<li><strong>Distribution Analysis:</strong> Detailed study of the Binomial and Normal distributions, including their properties and applications in real-world scenarios.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Included weekly assignments, quizzes, and an end-term exam to assess understanding and application of statistical principles.</li>
+</ul>
+<p><strong>Instructor Background:</strong><br>
+<!-- -->Usha Mohan is a Professor at the Department of Management Studies, IIT Madras. She holds a Ph.D. from the Indian Statistical Institute and has extensive experience in data analytics, operations research, and supply chain management.</p>
+<p><strong>2. Statistics for Data Science II</strong><br>
+<em>Instructor: Andrew Thangaraj</em></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Advanced Statistical Modeling:</strong> Techniques for modeling data, including parameter estimation and hypothesis testing.</li>
+<li><strong>Probability Distributions:</strong> In-depth analysis of continuous and discrete random variables and their distributions.</li>
+<li><strong>Estimation Techniques:</strong> Methods for point and interval estimation, including confidence intervals and testing of hypotheses related to means and variances.</li>
+<li><strong>Regression Analysis:</strong> Application of simple linear regression models to analyze relationships between variables and test hypotheses.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Included comprehensive coursework, practical assignments, quizzes, and an end-term exam.</li>
+</ul>
+<p><strong>Instructor Background:</strong><br>
+<!-- -->Andrew Thangaraj is a Professor in the Electrical Engineering Department at IIT Madras. He completed his Ph.D. from the Georgia Institute of Technology and has expertise in electrical engineering and statistical modeling.</p>
+<p><strong>3. Mathematics for Data Science I</strong><br>
+<em>Instructors: Neelesh Upadhye, Madhavan Mukund</em></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Functions and Graphs:</strong> Detailed study of functions including linear, polynomial, exponential, and logarithmic functions.</li>
+<li><strong>Discrete Mathematics:</strong> Basics of set theory, relations, and functions, with practical applications in graph theory.</li>
+<li><strong>Polynomial Algebra:</strong> Operations with polynomials, including addition, subtraction, multiplication, and division.</li>
+<li><strong>Graph Theory:</strong> Representation of sets and relations as graphs, and solving real-life problems using graph-based methods.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Comprises weekly coursework, assignments, and quizzes with an end-term exam to evaluate understanding.</li>
+</ul>
+<p><strong>Instructor Background:</strong><br>
+<!-- -->Neelesh Upadhye is an Associate Professor in the Department of Mathematics at IIT Madras, specializing in mathematical modeling and statistics. Madhavan Mukund, Director at Chennai Mathematical Institute, is an expert in formal verification and theoretical computer science.</p>
+<p><strong>4. Mathematics for Data Science II</strong><br>
+<em>Instructor: Sarang S Sane</em></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Linear Algebra:</strong> Matrix operations, Gaussian elimination, and vector space theory.</li>
+<li><strong>Calculus:</strong> Differentiation and integration of single-variable and multivariate functions.</li>
+<li><strong>Optimization:</strong> Techniques for finding maxima and minima of functions using calculus and linear algebra.</li>
+<li><strong>Application to Machine Learning:</strong> Application of mathematical concepts to solve problems in machine learning and data science.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Includes weekly assignments, quizzes, and an end-term exam to assess grasp of mathematical concepts and their applications.</li>
+</ul>
+<p><strong>Instructor Background:</strong><br>
+<!-- -->Sarang S Sane is an Assistant Professor in the Department of Mathematics at IIT Madras, with expertise in linear algebra and optimization. He holds a Ph.D. from TIFR and has a background in mathematical statistics and probability.</p>
+<p><strong>5. Programming in Python</strong></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Core Python Programming:</strong> Basic and advanced programming techniques, including data structures, algorithms, and object-oriented programming.</li>
+<li><strong>Applications in Data Science:</strong> Use of Python for data analysis, manipulation, and visualization.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Focused on practical programming skills with assignments and coding projects.</li>
+</ul>
+<p><strong>6. Computational Thinking</strong></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Problem-Solving Techniques:</strong> Algorithmic thinking and problem-solving strategies relevant to data science and computational tasks.</li>
+<li><strong>Algorithm Design:</strong> Fundamentals of designing and analyzing algorithms for efficient problem-solving.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Included practical exercises and projects to develop computational thinking skills.</li>
+</ul>
+<p><strong>7. English I &amp; II</strong></p>
+<ul>
+<li><strong>Concepts Covered:</strong>
+<ul>
+<li><strong>Professional Communication:</strong> Development of technical writing skills, academic writing, and effective communication in professional contexts.</li>
+</ul>
+</li>
+<li><strong>Course Structure:</strong> Focused on improving writing and communication skills through assignments and assessments.</li>
+</ul>
+<hr>
+<p><strong>Current Enrollment (September 2024 Term):</strong></p>
+<ol>
+<li>
+<p><strong>Machine Learning Techniques</strong> (NEW COURSE)</p>
+<ul>
+<li>Focus: Advanced machine learning methodologies and their practical applications.</li>
+</ul>
+</li>
+<li>
+<p><strong>Business Data Management</strong> (NEW COURSE)</p>
+<ul>
+<li>Focus: Managing and analyzing business data, including data warehousing, data integration, and business intelligence.</li>
+</ul>
+</li>
+<li>
+<p><strong>Machine Learning Foundations</strong> (NEW COURSE)</p>
+<ul>
+<li>Focus: Fundamental principles of machine learning, including algorithms, models, and their theoretical underpinnings.</li>
+</ul>
+</li>
+</ol>
+<p><strong>Current Project:</strong></p>
+<ol>
+<li><strong>Business Data Management - Project</strong>
+<ul>
+<li>Focus: Applying concepts from the Business Data Management course to a real-world data management project, with emphasis on data analysis and business decision-making.</li>
+</ul>
+</li>
+</ol>
+<hr>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="IIT Madras BS Degree Foundation Level" term="IIT Madras BS Degree Foundation Level"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executive Director & Maintainer at TCET Open Source]]></title>
+        <id>https://mj665.github.io/achievements/tcet-open-source</id>
+        <link href="https://mj665.github.io/achievements/tcet-open-source"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Executive Director & Maintainer at TCET Open Source]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a href="https://mj665.github.io/achievements/tcet-open-source#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>In the dynamic world of open-source software, my journey as the <strong>Executive Director &amp; Maintainer at TCET Open Source</strong> has been both challenging and rewarding. From June 2023 to December 2023, I had the opportunity to significantly contribute to the TCET Open Source community, an organization with a robust user base of over 2,000 daily active users. My role evolved from an intern in the Documentation Team to a leadership position, where I took charge of enhancing documentation quality, leading critical projects, and fostering educational initiatives. This blog post delves into my experiences, achievements, and the impactful contributions I made during this period.</p>
+<hr>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="executive-director--maintainer">Executive Director &amp; Maintainer<a href="https://mj665.github.io/achievements/tcet-open-source#executive-director--maintainer" class="hash-link" aria-label="Direct link to Executive Director &amp; Maintainer" title="Direct link to Executive Director &amp; Maintainer">​</a></h4>
+<p><strong>TCET Open Source</strong><br>
+<a href="https://github.com/tcet-opensource" target="_blank" rel="noopener noreferrer">GitHub Repository</a><br>
+<em>June 2023 – December 2023</em></p>
+<ul>
+<li>
+<p><strong>Internship in Documentation Team</strong></p>
+<ul>
+<li><strong>Duration:</strong> June 2023</li>
+<li><strong>Role:</strong> Appointed as an intern in the Documentation Team for TCET Open Source, an organization with over 2,000 daily active users.</li>
+<li><strong>Responsibilities:</strong> Assisted in documenting various projects and contributed to improving the organization’s documentation.</li>
+</ul>
+</li>
+<li>
+<p><strong>Contributions to Documentation Repository</strong></p>
+<ul>
+<li><strong>Duration:</strong> June 2023 – August 2023</li>
+<li><strong>Achievements:</strong> Contributed 5 Pull Requests to the <a href="https://github.com/tcet-opensource/documentation" target="_blank" rel="noopener noreferrer">Documentation Repository</a>.</li>
+<li><strong>Impact:</strong> Enhanced the clarity and completeness of the documentation, facilitating better understanding and use by the community.</li>
+</ul>
+</li>
+<li>
+<p><strong>Promotion to Executive Director and Repository Maintainer</strong></p>
+<ul>
+<li><strong>Duration:</strong> August 2023</li>
+<li><strong>Role:</strong> Elevated to Executive Director and Repository Maintainer (Level 6) as per <a href="https://github.com/orgs/tcet-opensource/discussions/3" target="_blank" rel="noopener noreferrer">this discussion</a>.</li>
+<li><strong>Responsibilities:</strong> Oversaw the documentation team, managed repository issues, and ensured high-quality documentation standards.</li>
+</ul>
+</li>
+<li>
+<p><strong>Hacktober Fest Participation</strong></p>
+<ul>
+<li><strong>Duration:</strong> October 2023</li>
+<li><strong>Role:</strong> Actively participated as a maintainer during Hacktober Fest.</li>
+<li><strong>Responsibilities:</strong> Managed contributions from the open-source community, reviewed pull requests, and facilitated smooth collaboration.</li>
+</ul>
+</li>
+<li>
+<p><strong>Team Lead for TCET Linux Documentation</strong></p>
+<ul>
+<li><strong>Duration:</strong> September 2023 – November 2023</li>
+<li><strong>Achievements:</strong> Led the documentation efforts for <a href="https://linux.tcetmumbai.in/" target="_blank" rel="noopener noreferrer">TCET Linux</a>, resulting in the completion of an <a href="https://opensource.tcetmumbai.in/docs/projects/tcet-linux/about-tcet-linux" target="_blank" rel="noopener noreferrer">18-page documentation</a>.</li>
+<li><strong>Responsibilities:</strong> Coordinated with team members, drafted and finalized documentation, and ensured the project met the required standards.</li>
+</ul>
+</li>
+<li>
+<p><strong>Educational Initiatives for Team Members</strong></p>
+<ul>
+<li><strong>Duration:</strong> September 2023 – November 2023</li>
+<li><strong>Activities:</strong> Conducted online lectures and coding boot camps on topics including <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>, <a href="https://www.archlinux.org/" target="_blank" rel="noopener noreferrer">Arch Linux</a>, <a href="https://linux.tcetmumbai.in/" target="_blank" rel="noopener noreferrer">TCET Linux</a>, and <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a> for team members.</li>
+<li><strong>Objective:</strong> Enhanced the technical skills and knowledge of the team, contributing to improved project documentation and maintenance.</li>
+</ul>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="Executive Director & Maintainer at TCET Open Source" term="Executive Director & Maintainer at TCET Open Source"/>
+    </entry>
+</feed>

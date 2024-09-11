@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[8121],{8070:a=>{a.exports=JSON.parse('{"tags":[{"label":"Translating Resource Materials and Texts","permalink":"/blog/tags/translating-resource-materials-and-texts","count":1}]}')}}]);

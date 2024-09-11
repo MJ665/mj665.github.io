@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmj665_github_io=self.webpackChunkmj665_github_io||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Translating Resource Materials and Texts","permalink":"/blog/translating-resource-materials","unlisted":false,"date":"2024-09-11T00:00:00.000Z"}]}')}}]);

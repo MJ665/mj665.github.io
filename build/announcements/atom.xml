@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mj665.github.io/announcements</id>
+    <title>Meet Jain Portfolio Blog</title>
+    <updated>2024-09-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mj665.github.io/announcements"/>
+    <subtitle>Meet Jain Portfolio Blog</subtitle>
+    <icon>https://mj665.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IIT Madras BS Degree Diploma Level]]></title>
+        <id>https://mj665.github.io/announcements/iitm-diploma-level</id>
+        <link href="https://mj665.github.io/announcements/iitm-diploma-level"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IIT Madras BS Degree Diploma Level]]></summary>
+        <content type="html"><![CDATA[<p>The IIT Madras BS Degree Diploma Level provides a robust foundation in machine learning and business data management. This program is designed to equip students with essential skills and knowledge in these domains through a series of specialized courses and hands-on projects.</p>
+<ol>
+<li><strong>Machine Learning Foundations</strong></li>
+<li><strong>Business Data Management</strong></li>
+<li><strong>Machine Learning Techniques</strong></li>
+<li><strong>Business Data Management - Project</strong></li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-machine-learning-foundations"><strong>1. Machine Learning Foundations</strong><a href="https://mj665.github.io/announcements/iitm-diploma-level#1-machine-learning-foundations" class="hash-link" aria-label="Direct link to 1-machine-learning-foundations" title="Direct link to 1-machine-learning-foundations">​</a></h3>
+<p><strong>Instructor(s):</strong></p>
+<ul>
+<li><strong>Harish Guruprasad Ramaswamy:</strong> Assistant Professor at IIT Madras, specializing in machine learning, statistical learning theory, and optimization. Previously a research scientist at IBM and a post-doc at the University of Michigan.</li>
+<li><strong>Arun Rajkumar:</strong> Assistant Professor at IIT Madras with expertise in machine learning and statistical learning theory, previously a research scientist at Xerox Research Center.</li>
+<li><strong>Prashanth L.A.:</strong> Assistant Professor at IIT Madras with a background in machine learning and optimization, previously a postdoctoral researcher at the University of Maryland and INRIA Lille.</li>
+</ul>
+<p><strong>Key Concepts:</strong></p>
+<ul>
+<li><strong>Machine Learning Problem Identification:</strong> Recognize whether a problem can be framed as a machine learning issue.</li>
+<li><strong>Decomposition of Problems:</strong> Break down machine learning problems into fundamental components using calculus, linear algebra, probability, and optimization.</li>
+<li><strong>Supervised Learning and Linear Regression:</strong> Understand relationships between solving equations, projections, and linear least squares regression.</li>
+<li><strong>Eigenvalues and Eigenvectors:</strong> Visualize these concepts as matrix properties useful in unsupervised learning applications like dimensionality reduction and image compression.</li>
+<li><strong>Gradient Descent Methods:</strong> Implement, debug, and understand failure modes in gradient descent for unconstrained optimization problems.</li>
+<li><strong>Gaussian Mixture Models:</strong> Use and interpret Gaussian mixture models for data, constructing algorithms for parameter learning.</li>
+</ul>
+<p><strong>Course Structure:</strong></p>
+<ul>
+<li>12 weeks of coursework with weekly assignments.</li>
+<li>Two in-person quizzes and one end-term exam.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-business-data-management"><strong>2. Business Data Management</strong><a href="https://mj665.github.io/announcements/iitm-diploma-level#2-business-data-management" class="hash-link" aria-label="Direct link to 2-business-data-management" title="Direct link to 2-business-data-management">​</a></h3>
+<p><strong>Instructor(s):</strong></p>
+<ul>
+<li><strong>Dr. G Venkatesh:</strong> Professor of Practice at IIT Madras, involved in education technology and data management projects.</li>
+<li><strong>Prof. Suresh Babu:</strong> Professor at IIT Madras with expertise in applied macroeconomics, trade, development, and industrial economics.</li>
+<li><strong>Dr. Milind Gandhe:</strong> Chief Program Officer at IIIT Bangalore with extensive experience in the corporate sector and projects in various verticals.</li>
+</ul>
+<p><strong>Key Concepts:</strong></p>
+<ul>
+<li><strong>Business Context:</strong> Understand consumption patterns, micro-economic concepts of demand and supply, and data usage in business operations.</li>
+<li><strong>Firm-Level and Industry-Level Data Analysis:</strong> Analyze data from firms and industries, including performance metrics and strategic insights.</li>
+<li><strong>Data Management:</strong> Techniques for structuring and representing business data, using worksheets for interpretation and presentation, and working with large datasets.</li>
+</ul>
+<p><strong>Course Structure:</strong></p>
+<ul>
+<li>12 weeks of coursework with weekly assignments.</li>
+<li>Two in-person quizzes and one end-term exam.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-machine-learning-techniques"><strong>3. Machine Learning Techniques</strong><a href="https://mj665.github.io/announcements/iitm-diploma-level#3-machine-learning-techniques" class="hash-link" aria-label="Direct link to 3-machine-learning-techniques" title="Direct link to 3-machine-learning-techniques">​</a></h3>
+<p><strong>Instructor:</strong></p>
+<ul>
+<li><strong>Arun Rajkumar:</strong> Assistant Professor at IIT Madras, specializing in machine learning algorithms, statistical learning theory, and applications in education and healthcare.</li>
+</ul>
+<p><strong>Key Concepts:</strong></p>
+<ul>
+<li><strong>Machine Learning Algorithms:</strong> Deep understanding of algorithms for regression, classification, and clustering, including model properties, objectives, optimization, and evaluation.</li>
+<li><strong>Model Tuning:</strong> Techniques to address underfitting and overfitting in machine learning models.</li>
+<li><strong>Algorithm Selection:</strong> Choosing appropriate algorithms based on problem requirements.</li>
+<li><strong>Unsupervised Learning:</strong> Study of unsupervised learning techniques including PCA, Kernel PCA, K-means clustering, and Gaussian Mixture Models.</li>
+</ul>
+<p><strong>Course Structure:</strong></p>
+<ul>
+<li>12 weeks of coursework with weekly assignments.</li>
+<li>Two in-person quizzes and one end-term exam.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-business-data-management---project"><strong>4. Business Data Management - Project</strong><a href="https://mj665.github.io/announcements/iitm-diploma-level#4-business-data-management---project" class="hash-link" aria-label="Direct link to 4-business-data-management---project" title="Direct link to 4-business-data-management---project">​</a></h3>
+<p><strong>Instructor(s):</strong></p>
+<ul>
+<li><strong>Dr. Ashwin J. Baliga:</strong> Assistant Professor of Sales at IESEG School of Management with expertise in B2B marketing and research.</li>
+<li><strong>Dr. Aaditya Chandel:</strong> Research Scientist at IIT Madras with a focus on mechanical engineering and startup ecosystem.</li>
+<li><strong>Dr. G Venkatesh:</strong> Professor of Practice at IIT Madras with experience in education technology and data management.</li>
+<li><strong>Dr. Milind Gandhe:</strong> Chief Program Officer at IIIT Bangalore with a strong corporate background and expertise in machine intelligence.</li>
+</ul>
+<p><strong>Project Overview:</strong></p>
+<ul>
+<li><strong>Problem Identification:</strong> Work with a business firm to identify data-related issues or problems.</li>
+<li><strong>Data Collection and Analysis:</strong> Collect primary data, clean, analyze, and provide valuable insights.</li>
+<li><strong>Report and Presentation:</strong> Document the entire project process and present findings professionally.</li>
+</ul>
+<p><strong>Course Structure:</strong></p>
+<ul>
+<li>Independent research project with proposal, midterm submission, final report, and viva voce.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="future-courses"><strong>Future Courses</strong><a href="https://mj665.github.io/announcements/iitm-diploma-level#future-courses" class="hash-link" aria-label="Direct link to future-courses" title="Direct link to future-courses">​</a></h3>
+<p>After completing these courses, you will also be taking:</p>
+<ul>
+<li><strong>Machine Learning Practice (BSCS2008):</strong> Building on foundations and techniques learned, focusing on practical application.</li>
+<li><strong>Machine Learning Practice - Project (BSCS2008P):</strong> Applied project work based on the Machine Learning Practice course.</li>
+<li><strong>Business Analytics (BSMS2002):</strong> Further exploration of data analysis techniques within business contexts.</li>
+</ul>
+<p><strong>Diploma in Data Science:</strong> Upon completing these courses and projects, you will earn a diploma in data science from a renowned institution in India, emphasizing your comprehensive understanding of machine learning, business data management, and practical applications in the field.</p>]]></content>
+        <author>
+            <name>Meet Jain</name>
+            <uri>https://github.com/MJ665</uri>
+        </author>
+        <category label="IIT Madras BS Degree Diploma Level" term="IIT Madras BS Degree Diploma Level"/>
+    </entry>
+</feed>
